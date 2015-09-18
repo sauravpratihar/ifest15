@@ -1,0 +1,25 @@
+/*
+Theme Name: Metrika
+Theme URI: http://themeforest.net/user/InfoStyle/portfolio
+Author: InfoStyle
+Author URI: http://themeforest.net/user/InfoStyle/portfolio
+Description: Metrika — a modern, dynamic, high-quality OnePage wordpress theme.
+Version: 2.3.7
+License: GNU General Public License
+License URI: license.txt
+Text Domain: Metrika
+Domain Path: /languages/
+Tags: white, two-columns, right-sidebar, custom-header, custom-menu, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+ Metrika is based on Underscores http://underscores.me/, (C) 2012-2013 Automattic, Inc.
+
+Resetting and rebuilding styles have been helped along thanks to the fine work of
+Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html
+along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+and Blueprint http://www.blueprintcss.org/
+*/
+/*@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400&subset=latin,cyrillic);*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
