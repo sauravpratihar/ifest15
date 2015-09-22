@@ -1540,10 +1540,13 @@ textarea.textareaHintState, .textareaHintState textarea {
     display:table;
     /*border-radius: 50%;*/
 }
-.og-grid > li :nth-child(odd){
-    transform: rotate(2deg);}
-.og-grid > li :nth-child(even){
-    transform:rotate(-4deg)}
+@media (min-width: 768px){
+    .og-grid > li :nth-child(odd){
+        transform: rotate(2deg);}
+
+    .og-grid > li :nth-child(even){
+        transform:rotate(-4deg)}
+}
 .og-grid > li a:hover{
     margin-top:10%;
     transform:scale(1.1);

@@ -642,11 +642,11 @@ hr{
 
 
 .form-style-10{
-    float: none !important;
+    /* float: none !important; */
     overflow: hidden;
-    margin: 5% auto !important; 
+    /* margin: 5% auto !important; */ 
     padding:30px;
-    margin:40px auto;
+    /* margin:40px auto; */
     background: #FFF;
     border-radius: 10px;
     -webkit-border-radius:10px;
@@ -788,10 +788,10 @@ nav
     border: 5px dashed #fff;
     padding: 20px;
     margin: 15px;
-    background-color: #C6AA95;
-    color: #fff;
+    background-color: #DBDBDB;
+    color: #000;
     font-weight: bold;
-    text-shadow: 0 0 4px #000;
+    /* text-shadow: 0 0 4px #FFF; */
     width: inherit;
 }
 
@@ -803,7 +803,7 @@ nav
 .portfolio-toolbar li.active,
 .portfolio-toolbar li:hover{
     color: #fff;
-    background-color: #77452A;
+    background-color: #6F6F6F;
     cursor: pointer;
     border-radius: 20%;
     transition: 0.5s;
@@ -816,6 +816,75 @@ nav
     background-color: #fefefe !important;
 }
 .register{
-    padding:20px;
+    padding: 10px;
     border: 3px solid;
+}
+
+.event-details p{
+    margin: 7%;
+}
+
+
+.team-address{
+    border: 1px solid;
+    border-radius: 5%;
+    margin-top: 5%;
+    padding: 1%;
+    text-align: center;
+}
+.fee{
+    border: 1px solid;
+    padding: 1%;
+    border-radius: 6%;
+    background-color: #f7f7f7;
+    word-spacing: 2px;
+    box-shadow: 0 0 8px #ccc;
+
+    position: fixed;
+    margin: 0 2%;
+}
+
+.fancy {
+    color: #666;
+    line-height: 1;
+    text-align: center;
+    border:2px solid;
+    padding: 15px;
+    display: table;
+    position: relative;  
+    border-radius: 5%;
+    text-shadow: 0 0 40px #ffbab3;
+    margin: 0 auto;
+
+}
+.fancy:before,
+.fancy:after {
+    content: "";
+    position: absolute;
+    height: 15px;
+    border-bottom: 2px solid ;
+    border-top: 2px solid;
+    width: 100%;
+    border-radius: 15%;
+}
+.fancy:before {
+    right: -105%;
+}
+.fancy:after {
+    left: -105%;
+}
+
+.sponsor-grid{
+    margin-top: 5%;
+    text-align: center;
+}
+.sponsor-grid div span{
+    margin:auto 0;
+}
+
+@media (min-width: 768px){
+    .sponsor-grid div.row-fluid{
+        display:flex;
+    }
+}
 }
