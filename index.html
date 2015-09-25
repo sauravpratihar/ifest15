@@ -1311,9 +1311,7 @@
                     </footer>
                 </div>
             </article>
-            <article class="blog-page-list pt-page pt-page-5" id="schedule"
-                     originalclasslist="pt-page pt-page-5 blog-page-list">
-
+            <article class="blog-page-list pt-page pt-page-5" id="schedule" originalclasslist="pt-page pt-page-5 blog-page-list">
                 <div class="outer-wrapper" style="background-color:  rgba(255,255,255,0.95);">
                     <!--Header-->
                     <header class="row-fluid">
@@ -1744,7 +1742,98 @@
                                             </i>
                                         </span>
                                     </div>
+                                    <div class="wrapper-block right">
+                                        <div class="edu-block right">
+                                            <span class="edu-date">
+                                                <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                            </span>
+                                            <h4>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Crypt - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                            </h4>
 
+                                            <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                <i class='fa fa-calendar'></i> Time: 15:00 - 16:30<br/>
+
+                                            </p>
+                                            <a class="viewmorebox">View More</a>
+                                            <div class="viewmore">
+                                                <h1><i class="fa fa-close"></i></h1>
+                                            </div>
+                                        </div>
+                                        <span class="block-ico">
+                                            <i class="fa fa-cubes">
+                                            </i>
+                                        </span>
+                                    </div>
+                                    <div class="wrapper-block left">
+                                        <div class="edu-block left">
+                                            <span class="edu-date">
+                                                <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                            </span>
+                                            <h4>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Rubble - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                            </h4>
+
+                                            <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                <i class='fa fa-calendar'></i> Time: 16:30 - 19:00<br/>
+
+                                            </p>
+                                            <a class="viewmorebox">View More</a>
+                                            <div class="viewmore">
+                                                <h1><i class="fa fa-close"></i></h1>
+                                            </div>
+                                        </div>
+                                        <span class="block-ico">
+                                            <i class="fa fa-cubes">
+                                            </i>
+                                        </span>
+                                    </div>
+                                    <div class="wrapper-block right">
+                                        <div class="edu-block right">
+                                            <span class="edu-date">
+                                                <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                            </span>
+                                            <h4>
+                                                <i class='fa fa-bookmark-o'></i><b> Closing Ceremony - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                            </h4>
+
+                                            <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                <i class='fa fa-calendar'></i> Time: 19:00 - 21:00<br/>
+
+                                            </p>
+                                            <a class="viewmorebox">View More</a>
+                                            <div class="viewmore">
+                                                <h1><i class="fa fa-close"></i></h1>
+                                            </div>
+                                        </div>
+                                        <span class="block-ico">
+                                            <i class="fa fa-cubes">
+                                            </i>
+                                        </span>
+                                    </div>
+                                    <div class="wrapper-block left">
+                                        <div class="edu-block left">
+                                            <span class="edu-date">
+                                                <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                            </span>
+                                            <h4>
+                                                <i class='fa fa-bookmark-o'></i><b> DJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                            </h4>
+
+                                            <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                <i class='fa fa-calendar'></i> Time: 9 onwardsbr/>
+
+                                            </p>
+                                            <a class="viewmorebox">View More</a>
+                                            <div class="viewmore">
+                                                <h1><i class="fa fa-close"></i></h1>
+                                            </div>
+                                        </div>
+                                        <span class="block-ico">
+                                            <i class="fa fa-cubes">
+                                            </i>
+                                        </span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
