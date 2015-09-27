@@ -571,7 +571,7 @@ a.load-more-btn > .figcap,
     transition: color 250ms ease-out;
 }
 a {
-    font-size: 1.1em!important;
+    /* font-size: 1.1em!important; */
 }
 dl {
     padding: 0.5em;
@@ -1548,7 +1548,7 @@ textarea.textareaHintState, .textareaHintState textarea {
         transform:rotate(-4deg)}
 }
 .og-grid > li a:hover{
-    margin-top:10%;
-    transform:scale(1.1);
+    margin-top: 10%;
+    transform: scale(1.05);
     transition:0.5s;   
 }

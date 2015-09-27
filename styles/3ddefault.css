@@ -30,8 +30,8 @@ html { height: 100%; }
 .container-gallery {
     width: 100%;
     height: 100%;
-    /*	position: relative; */
-    min-height: 530px;
+    /* position: relative; */
+    min-height: 650px;
 }
 
 .container-gallery > h1 {

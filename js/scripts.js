@@ -84,9 +84,7 @@
         });
 
         $('body').on('click', '.next-page, .prev-page', function() {
-            if ($('.pt-page-' + $(this).attr('page')).is('.blog-page-list')) {
-                blogPosts(0);
-            }
+            
             if (history.pushState) {
                 window.history.pushState({},"", '#' + $('.pt-page-' + $(this).attr('page')).attr('id'));
             }

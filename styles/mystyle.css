@@ -915,7 +915,7 @@ nav
     box-sizing:border-box;
     float:left;
     padding: 5px;
-    max-width: 513px;
+    max-width: 43.5%;
     position:relative
 }
 
@@ -923,7 +923,7 @@ nav
 {
     .edu-block
     {
-        max-width:410px;
+        max-width: 42.25%;
         padding:10px
     }
 
@@ -1122,8 +1122,7 @@ nav
         max-width:100%;
         padding-top:20px;
         padding-bottom:20px;
-        margin:55px 0 20px!important
-    }
+        margin: 110px 0 20px!important;}
 
     .edu-block:after,
     .edu-block:before

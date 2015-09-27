@@ -142,7 +142,7 @@
                         <div class="clearfix">
                             <div class="text">
                                 <p>
-                                    i.Fest is an idea conceptualized by IEEE student branch at DA-IICT. Our main aim is to bring the budding engineers from all over India to
+                                    i.Fest is an idea conceptualized by IEEE Student Branch at DA-IICT. Our main aim is to bring the budding engineers from all over India to
 
                                     a common platform so that they can share their knowledge with their fellow imaginers. The next big thing for technology is the
 
@@ -201,7 +201,7 @@
                             <div class="span12" style="text-align: justify;">
 
                                 <p>
-                                    Dhirubhai Ambani Institute of Information and Communication Technology, promoted by Dhirubhai Ambani Foundation and the Anil
+                                    Dhirubhai Ambani Institute of Information and Communication Technology, promoted by Dhirubhai Ambani Foundation and the Anil Dhirubhai 
 
                                     Ambani Group, was established with a mission to provide such an enriching environment to enable young minds to widen their
 
@@ -217,7 +217,7 @@
 
                                     between industry and the students studying in the technology-related fields, while promoting and providing an intellectually
 
-                                    stimulating university related environment for the student community. IEEE student branch DA-IICT aims to provide an interactive platform
+                                    stimulating university related environment for the student community. IEEE Student Branch DA-IICT aims to provide an interactive platform
 
                                     for students to develop professional and technical abilities. Since the inception, it is successful in organizing various events with well -
                                     defined objectives.</p>
@@ -1353,7 +1353,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i> Arduino Mela &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                                <i class='fa fa-bookmark-o'></i> Arduino Mela &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                                             </h4>
                                             <p>
 
@@ -1378,7 +1378,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> Blind C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> Blind C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1401,7 +1401,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Papyrus &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Papyrus &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1424,7 +1424,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> Inaugural  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> Inaugural  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1447,7 +1447,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Ganith &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Ganith &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1471,7 +1471,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Bot - 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Bot - 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1494,7 +1494,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.App &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.App &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1517,7 +1517,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Biz &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Biz &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1540,7 +1540,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Database - 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Database - 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1563,7 +1563,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Electro - 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Electro - 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1586,7 +1586,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> Treasure Hunt &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> Treasure Hunt &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1609,7 +1609,7 @@
                                                 <a><i class='fa fa-map-marker'></i> i.Maze</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> Blind C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> Blind C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1632,7 +1632,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Cube &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Cube &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1655,7 +1655,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Intelligence &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Intelligence &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1679,7 +1679,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Bot - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Bot - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1702,7 +1702,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Database - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Database - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1725,7 +1725,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Electro - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Electro - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1748,7 +1748,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Crypt - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Crypt - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1771,7 +1771,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> i.Rubble - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> i.Rubble - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1794,7 +1794,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> Closing Ceremony - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> Closing Ceremony - 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
@@ -1817,7 +1817,7 @@
                                                 <a><i class='fa fa-map-marker'></i> View on Map</a>
                                             </span>
                                             <h4>
-                                                <i class='fa fa-bookmark-o'></i><b> DJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                <i class='fa fa-bookmark-o'></i><b> DJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
                                             </h4>
 
                                             <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
