@@ -466,6 +466,7 @@
 
                                     jQuery(".viewmorebox").click(function () {
                                         jQuery(this).closest("li").find(".viewmore").css("visibility", "visible");
+                                        jQuery(this).closest("li").css("height", "1800px !important");
 
                                     });
 

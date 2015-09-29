@@ -36,7 +36,7 @@ jQuery(document).ready(function(){
 				var obj = jQuery.parseJSON(result);
 				jQuery("#Events").html("");
 				jQuery.each(obj, function (key, value) {
-					var str = "<li>" + "<a href='download2.php?id=" + key + "'>" + value + "</a>"  + "</li>";
+					var str = "<li>" + "<a href='download.php?id=" + key + "&value="+value+"'>" + value + "</a>"  + "</li>";
 					jQuery("#Events").append(str);
 				});
 			}

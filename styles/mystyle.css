@@ -889,6 +889,9 @@ a.register{
     .sponsor-grid div.row-fluid{
         display:flex;
     }
+    .og-details{
+        display: none;
+    }
 }
 
 
@@ -1285,8 +1288,12 @@ input[placeholder], [placeholder], *[placeholder] {
 }
 
 #map img{
-    height: 70%;
+    /* height: 70%; */
     margin: 0 auto;
     display: table;
 
+}
+.og-expanded .viewmore{
+/*    height: 2800px !important;
+    overflow: scroll;*/
 }

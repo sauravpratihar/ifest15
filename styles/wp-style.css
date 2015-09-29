@@ -1495,7 +1495,7 @@ a.blogpost svg{
 
 /* 2 more loading blocks */
 .loader.more:before, .loader.more:after {
-    content: ' ÃƒÂ¢Ã¢â‚¬â€œÃ‚Â ';
+    content: ' ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Ãƒâ€šÃ‚Â ';
     color: #ffffff;
     top: 0;
     line-height: 6px;
@@ -1593,7 +1593,8 @@ a.blogpost svg{
     }
     .row-fluid [class*="span"] {
         margin-bottom: 15px;
-    }
+    
+}
     .row-fluid fieldset[class*="span"] {
         margin-bottom: 0;
     }

@@ -122,15 +122,6 @@ if(isset($Data['ielectro'])){
 if(isset($Data['blindc'])){
 	array_push($Event,9);
 }
-if(isset($Data['idesign'])){
-	array_push($Event,6);
-}
-if(isset($Data['irubble'])){
-	array_push($Event,9);
-}
-if(isset($Data['technocafe'])){
-	array_push($Event,9);
-}
 if(isset($Data['ibiz'])){
 	array_push($Event,10);
 }
@@ -155,7 +146,8 @@ if(isset($Data['icube'])){
 if(isset($Data['iquiz'])){
 	array_push($Event,17);
 }
-if(isset($Data['iclash'])){
+
+if(isset($Data['idesign'])){
 	array_push($Event,18);
 }
 if(isset($Data['iclash'])){
@@ -164,10 +156,10 @@ if(isset($Data['iclash'])){
 if(isset($Data['idecipher'])){
 	array_push($Event,20);
 }
-if(isset($Data['idesign'])){
+if(isset($Data['irubble'])){
 	array_push($Event,21);
 }
-if(isset($Data['irubble'])){
+if(isset($Data['technocafe'])){
 	array_push($Event,22);
 }
 

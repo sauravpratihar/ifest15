@@ -524,7 +524,7 @@ transform:rotate(2deg) !important;
     text-decoration: none !important;
 }
 .og-grid > li > a{
-    min-height: 245px;
+    min-height: 210px;
 }
 .team-mate > .figcap,
 .og-grid li a > .figcap,
@@ -937,7 +937,7 @@ footer {
 }
 .og-grid > li {
     width: 200px;
-    height: 230px;
+    /* height: 230px; */
     display: inline-block;
     margin: 15px 0 30px 25px;
     vertical-align: top;
@@ -1147,7 +1147,7 @@ footer {
 }
 @media screen and (max-width: 650px) {
     .og-fullimg { /* display: none; */ }
-    .og-details { float: none; width: 100%; }
+    .og-details { float: none; width: 100%; display: none !important;}
 }
 
 
@@ -1397,6 +1397,10 @@ textarea.textareaHintState, .textareaHintState textarea {
     .container > .span4 p {
         padding: 0 10px;
     }
+
+p.fee {
+    position: inherit;
+}
     .quotation-mark {
         display: none;
     }
@@ -1549,7 +1553,7 @@ textarea.textareaHintState, .textareaHintState textarea {
         transform:rotate(-4deg)}
 }
 .og-grid > li a:hover{
-    /* margin-top: 10%; */
+    margin-top: 10%;
     transform: scale(1.05);
     transition:0.5s;   
 }

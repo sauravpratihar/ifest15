@@ -1735,6 +1735,9 @@ legend + .control-group {
   .container {
     width: auto;
   }
+
+#map img {
+}
   .row-fluid {
     width: 100%;
   }

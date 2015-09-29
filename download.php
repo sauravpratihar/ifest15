@@ -1,5 +1,6 @@
 <?php
 if(isset($_REQUEST['id'])){
+    $v=$_REQUEST['value'];
 include_once('dbconnect.php');
 
 global $servername;
@@ -21,7 +22,7 @@ $fields = mysql_num_fields ( $export );
 
 for ( $i = 0; $i < $fields; $i++ )
 {
-    $header .= mysql_field_name( $export , $i ) . "\t";
+    $header .= mysql_field_name( $export , $i ) . ",";
 }
 
 while( $row = mysql_fetch_row( $export ) )
@@ -31,12 +32,12 @@ while( $row = mysql_fetch_row( $export ) )
     {   
 		if ( ( !isset( $value ) ) || ( $value == "" ) )
         {
-            $value = "\t";
+            $value = ",";
         }
         else
         {
             $value = str_replace( '"' , '""' , $value );
-            $value = '"' . $value . '"' . "\t";
+            $value = '"' . $value . '"' . ",";
         }
         $line .= $value;
 	}
@@ -53,7 +54,7 @@ if ( $data == "" )
 mysql_close($conn);
 
 header("Content-type: application/octet-stream");
-header("Content-Disposition: attachment; filename=your_desired_name.xls");
+header("Content-Disposition: attachment; filename=".$v.".csv");
 header("Pragma: no-cache");
 header("Expires: 0");
 print "$header\n$data";
