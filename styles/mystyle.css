@@ -1272,3 +1272,21 @@ input[placeholder], [placeholder], *[placeholder] {
 .viewmore ul li:nth-child(even){
     transform: rotate(-2deg)  !important;
 }
+
+#map{
+    visibility: hidden;
+    display: block;
+    position: fixed;
+    top: 2%;
+    left: 2%;
+    z-index: 10001;
+    background: #797878;
+    opacity: 0.95;
+}
+
+#map img{
+    height: 70%;
+    margin: 0 auto;
+    display: table;
+
+}
