@@ -1236,11 +1236,30 @@
                                         <h1><i class="fa fa-close"></i></h1>
                                         <div style="display: inline">
                                             <br/>
-                                            <ul style="list-style: square">
-
-                                            </li><li>
-                                    </ul>
-                                    <br/>
+                                            
+                                    
+                                    <br/>Date: 24th October, 2015
+<br/>Time: 5:00pm Onwards
+<br/>Venue: Cafeteria
+<br/>Event Duration: 2 hours
+<br/>
+<br/>Treasure hunt is one of the fun filled events of iFest. Our campus presents the prefect venue to make it an exciting and adventurous treasure trail. It's a great opportunity for the first years to discover the campus, form new friendships, have great fun and win goodies along the way. Go on and engage in this challenging yet thrilling hunt on one hell of a campus !!!
+<br/>
+<br/>
+<br/>Rules and Regulations :
+<ul style="list-style: square">
+<li>Each team should consists of max. of 5 members
+</li><li>Every member of the team should have registered and paid to take part in any i.Fest event.
+</li><li>Each team will be allotted different routes and should abide by them.
+</li>
+</ul>
+<br/><br/>In case of discrepancies, i.Fest committee’s and coordinators decision stands final
+<br/>
+<br/>Contact Details:
+<br/>Madhuri Jain : +91-9601032344
+<br/>Amisha Singhla : +91-7048336371
+<br/>
+<br/>
 
                                 </div>
                             </div>
@@ -1397,7 +1416,13 @@
                                             </div>
                                             <div class="">
                                                 <p>
+Do you love robo wars? Do you love coding? Excited for Artificial Intelligene ? 
+<br/>
+<br/>Then this is the best platform for all the A.I. lovers to show off their skills. i.Fest’15 is bringing in the 
 
+first ever contest on Artificial Intelligence. Build the best strategy and the win the war against your 
+
+rivals and show how intelligent your artificial bot is and so is you…
                                                 </p>
                                             </div>
                                         </div>
@@ -1866,10 +1891,8 @@
                                         <h1><i class="fa fa-close"></i></h1>
                                         <div style="display: inline">
                                             <br/>
-                                            <ul style="list-style: square">
-
-                                            </li><li>
-                                    </ul>
+                                            <br/>Contact Details : 
+<br/>Pragnesh Patel : +91-8460073837
                                     <br/>
 
                                 </div>
