@@ -66,7 +66,7 @@ input[type="email"], input[type="url"], input[type="search"], input[type="tel"],
 input[type="color"], .uneditable-input, input[type=submit],
 #site-navigation .menu>li a, #site-navigation .menu>ul li a, a.blogpost:hover>h2,
 a.blogpost:hover>.post-meta, a.blogpost:hover>p {
-    color: #d06e39;
+    /* color: #d06e39; */;
 }
 
 #primary .works_item .link, .default-footer, .archive, #primary,
@@ -323,7 +323,7 @@ a.blogpost:hover>.post-meta, a.blogpost:hover>p {
 .pt-page-6 a.load-more-btn:hover>p, .pt-page-6 input[type=submit],
 .pt-page-6 textarea, .pt-page-6 input[type="text"], .pt-page-6 input[type="email"]
 {
-    color: #d9912a;
+    /* color: #080807; */
 }
 
 .pt-page-6 input::-webkit-input-placeholder {
@@ -599,8 +599,8 @@ a.blogpost:hover>.post-meta, a.blogpost:hover>p {
     margin: 0% !important;
 }
 .logo-img{
-    margin: 1% 0% 0% 1% !important;
-    opacity: 0.7;
+    margin: 1% 0% 0% 1.5% !important;
+    /* opacity: 0.7; */
 }
 .title-logo h1{
     font-weight: bolder;
@@ -816,8 +816,11 @@ nav
     background-color: #FEFEFE !important;
 }
 .register{
-    padding: 10px;
+    padding: 7px;
     border: 3px solid;
+}
+a.register{
+    font-size: 0.7em;
 }
 
 .event-details p{
@@ -1199,17 +1202,17 @@ nav
 }
 
 .viewmorebox{
-    padding: 5px;
-    border: 1px solid;
-    display: inline-block;
-    margin: 20px 0 10px 0;
+    padding: 7px;
+    border: 3px solid;
+    margin: 7px;
+    font-size: 0.7em;
 }
 
 .viewmorebox:hover
 {
-    text-decoration: none;
+    text-decoration: none !important;
     background: #eee;
-    transition: 0.2s;
+    transition: 0.2s !important;
 }
 
 .edu-date a:hover{
@@ -1221,27 +1224,51 @@ nav
 }
 
 .viewmore{
-    position: fixed; 
+    position: absolute; 
     width: 95%;
-    display: block;
     min-height: 300px;
-    background-color: #A07732;
-    top: 2%;
+    background-color: #5C5A56;
     left: 2%;
     z-index: 1000;
-    border: 11px dashed #fff;
+    border: 15px outset #909684;
     color: #fff;
     text-shadow: 0 0 1px #000;
     font-weight: bold;
-    display: none; 
     word-spacing: 3px;
-    
-    /* opacity: 0.9; */
+    visibility: hidden;
+    text-align: left;
+    transition: 0.2s
+;
+    box-shadow: 0 0 30px #A6A0A2;
 }
 
 .viewmore .fa-close{
-    right: 10px;
+    right: -10px;
+    top: -10px;
     position: absolute;
     color: #fff;
     text-shadow: 0 0 6px #000;
+}
+
+.title-center.register{
+    margin: 3% 3% 5% 3% ;
+}
+
+#schedule .viewmorebox{
+    visibility: hidden;
+}
+
+input[placeholder], [placeholder], *[placeholder] {
+    color: #ccc !important;
+}
+
+.viewmore, .viewmore p,.viewmore ul{
+    padding: 1% 4%;
+    transform: rotate(0deg) !important;
+}
+.viewmore ul li:nth-child(odd){
+    transform: rotate(-2deg)  !important;
+}
+.viewmore ul li:nth-child(even){
+    transform: rotate(-2deg)  !important;
 }
