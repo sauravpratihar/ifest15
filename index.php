@@ -573,11 +573,125 @@
                                         <h1><i class="fa fa-close"></i></h1>
                                         <div style="display: inline">
                                             <br/>
-                                            <ul style="list-style: square">
+                                            
 
-                                            </li><li>
-                                    </ul>
+                                    <br/>Date: 23rd October, 2015
+                                    <br/>Time: 2:30pm Onwards
+    <br/>Venue: TBD
+<br/>Event Duration: 3 hours
+<br/>
+<br/>
+<br/><i>"Vision without action is merely a dream 
+<br/>Action without vision just passes the time
+<br/>Vision with action can change the world"
+<br/></i>
+<br/>It is time to titillate your grey cells, bring out innovative and ingenious ideas and unleash it to the world, 'cos it awaits a change!
+<br/>
+<br/><b>“i.Papyrus”</b> provides you the right platform to curb the thirst of the scientific world with your brilliant thoughts and win exciting cash prizes! It is not merely a paper presentation competition but your chance to pave way for a better tomorrow!
+<br/>
+<br/><b>A. Eligibility-:</b>
+<ul style="list-style: square">
+                                            <li>
+An entrant must be a postgraduate student.
+</li><li>An entrant may collaborate writing a paper with additional Students, all of whom meet the above criteria.
+</li>
+</ul>
+<br/><br/>
+<br/><b>B. No. of Members and Entries -: </b>
+<ul style="list-style: square">
+                                            <li>
+A team can have maximum of 3 members.
+</li><li>All the team members have to be the author of the paper they are submitting.
+</li><li>A team or an individual cannot send more than 2 entries.
+</li>
+</ul>
+<br/><br/>
+<br/><b>C. Subject Matter -:</b>
+<ul style="list-style: square">
+                                            <li>
+                                                Papers should cover technical, engineering, management, or societal aspects of subjects reasonably within or related to the areas with which the author is familiar, either from courses, hobbies, summer work, or other similar experiences. 
+</li><li>The work need not be original in content since the primary function of the Student prize paper contest is to improve the student’s communication skills. The work should, however, be original in treatment and concise in coverage of the author’s contribution to the subject. 
+</li>
+</ul>
+<br/><br/>
+<br/><b>D. Event Format
+<ul style="list-style: square">
+                                            <li>
+There will be two phases for the event. The initial phase is the online submission of the abstract. The abstracts will be verified by a panel and the best ones will be shortlisted for the next phase. The final phase is the presentation which will be conducted at i.Fest 2015 at the time allotted.
+</li>
+</ul>
+<br/><br/>
+<br/><b>E. Content of the Paper:</b>
+<br/>
+In general, the contents of the paper shall be organized as follows: 
+<ul style="list-style: square">
+                                            <li>
+                                                Separate flyleaf page in a separate file: Since the judges must handle the papers without knowledge of the identity of the author, it is required that the paper itself show no identification other than the title. The title, name of the author(s) must be shown on the flyleaf, which can be removed.
+</li><li>Title Page: On the title page, only the title of the paper may appear. The title should consist of the minimum number of key words necessary to portray accurately the contents of the paper. 
+</li><li>Abstract: The abstract shall not describe the paper, but should give, in brief, the essential facts of its contents. For example, it should be a brief statement of the problem or objective and a concise summary of the results or conclusion, touching upon methods or other details only if they are unique or if they are of some particular significance. The abstract should be no longer than 100 words.
+</li><li>Introduction: The introduction should lead to the development of the subject so that the reader may obtain a clear understanding of the significance of the paper or article prepared.
+</li><li>Body: No mention of the author’s name shall be made in the body. Any reference to the author’s should read “the university” without giving the actual name. The main argument of the subject is carried out in the body of the paper, complete with supporting data. The argument should proceed in a logical sequence according to prepared outline. The writing should be in the third person. 
+</li><li>Conclusion: The conclusion is often considered the most important part of the paper. It should be stated concisely in a separate section at the end of the paper. If there are three or more conclusions, better emphasis can be obtained by numbering each conclusion and setting it off in a separate paragraph. 
+</li><li>Tables: Generally, each table should be typed on a separate sheet and numbered consecutively using Roman Numerals (Table I, Table II). Small tabulations or listings may be made in the text where necessary for continuity. 
+</li><li>References: To enable the reader to consult important works used by the author incidental to the preparation of the paper which might be helpful, a suitable reference list should be appended. 
+</li>
+</ul>
+<br/><br/>
+<br/><b>F. Oral Presentation</b></b>
+<ul style="list-style: square">
+     <li>Eight (8) minutes shall be allotted for the oral presentation and four (4) minutes for questions from the audience, however these times are subject to change depending on the number of participants any time prior to the start of the contest. 
+</li><li>The academic committee shall arrange a timing system, with the following characteristics:
+<br/><br/>
+</li><li>(a) A signal will be given at the beginning of the oral presentation.
+</li><li>(b) A first warning signal will be given halfway through the presentation period.
+</li><li>(c) A second warning signal will be given two minutes prior to the end of the presentation period.
+</li><li>(e) The contest should cease talking when the stop signal is given. Each contest judges may assess a penalty of 5 points to the total oral presentation score for running overtime.
+</li><li>(f) The contestant will be stopped by the judges if he continues past the stop signal.
+</li><li>(g) In addition to the presentation period and the discussion period, the judges shall be given up to five (5) minutes to complete their evaluations between presentations.
+</li>
+</ul>
+<br/><br/>
+<br/><b>G. Judging</b>
+<ul style="list-style: square">
+                                            <li>
+Evaluation and judging is based on 55 percent given to the written presentation and 45 percent weight given to the oral presentation.
+</li><li>The contestant’s final score will be the sum of each judge’s “Total Oral and Written Score.” This final score will be the sole determination of rankings unless a tie occurs.
+</li><li>Before any tie breaker vote, at the judges’ discretion they may choose to talk with each of the tied contestants. This will consist of further questions about the contestant’s paper and/or presentation and will last no more than five (5) minutes per contestant.
+</li>
+</ul>
+<br/><br/>
+<br/><b>H. Fees</b>
+<ul style="list-style: square">
+                                            <li>
+For IEEE Members- Rs. 50/- per member
+</li><li>For Non-IEEE Members- Rs. 100/- per member
+</li><li>For IAS Members- Free
+</li>
+</ul>
+<br/><br/>
+<br/><b>I. Rules and Regulations:</b>
+<ul style="list-style: square">
+                                            <li>
+Rules are subject to change at any point in time. All rules will be explained at the event as well. 
+</li><li>3 hard copies of the final paper have to be submitted.
+</li><li>Presentations have to be in PowerPoint format only and the number of slides should not exceed 25.
+</li><li>Medium of presentation must be in English.
+</li><li>Decision of judges will be final and binding.
+</li>
+</ul>
+<br/><br/>
+<br/>
+<b>J. Rules Discrepancies, Disputes, and Clarifications</b>
+<ul style="list-style: square">
+                                            <li>
+In the event that any discrepancy in the rules arises, any clarification is necessary, or any dispute of the rules is brought up, it will be settled by the sole judgment of the Committee.  Any rulings made by the Committee will be considered official and final.
+</li>
+</ul>
+<br/><br/>
+
+
                                     <br/>
+
 
                                 </div>
                             </div>
@@ -621,10 +735,40 @@
                                 <h1><i class="fa fa-close"></i></h1>
                                 <div style="display: inline">
                                     <br/>
-                                    <ul style="list-style: square">
+                                    
+                            
+                                    
+<br/>                                    Date: 23rd October, 2015
+<br/>Time: 8:30pm Onwards
+<br/>Venue: TBD
+<br/>Event Duration: 1.30hours
+<br/>
+<ul style="list-style: square">
 
-                                    </li><li>
-                            </ul>
+                                    <li>
+The event will consist of two rounds both on the same day, a preliminary round following by the final round.
+ </li><li>Those qualifying the prelims will be allowed to appear for the finals
+     </li><li>Prelims / Round 1 (30 mins)
+     <ul style="list-style: square">
+            <li>This will consist of 60 questions in 30 minutes mostly MCQ type of one word answer. The questions will be fairly simple as in this round we are just trying to figure out the accuracy of the contestants. 
+            </li><li>After the first round the top 20 contestants will be selected for the final round.
+            </li><li>The copies would be checked on the spot and we will give the best approach to solve the problems. 
+            </li>
+        </ul>
+        <br/><br/>
+</li><li>Finals/Round 2 (45 mins)
+<ul style="list-style: square">
+
+    <li>This will consist of 20 questions with varying difficulty level.  The questions will be of subjective type and the contestants will have to solve the questions in the space provided. 
+    </li><li>The papers of the finals would be checked appropriately and the results will be announced on the same day via email.
+    </li>
+</ul>
+</li>
+</ul><br/>
+<br/>Contact Details:
+<br/>Yash Indrawat : +91-7383744402
+<br/>Tejasv Gupta : +91-9726724162
+
                             <br/>
 
                         </div>
@@ -674,12 +818,45 @@
                         <h1><i class="fa fa-close"></i></h1>
                         <div style="display: inline">
                             <br/>
-                            <ul style="list-style: square">
+                            <br/>Team size: Maximum 3 
+<br/>Platforms: Android, Windows, IOS
+<br/>
+<br/>The event will have two categories.
+<br/>
+<br/>Category 1. : Teams with Complete working app compete in this Category.
+<br/>Category 2. : Teams with an Idea and a Basic Prototype will compete.
+<br/>
+<br/>Both the categories will be held in two Phases.
+<br/>Registration deadline for both the categories : TBD
+<br/>
+<br/>Phase 1: Submission of Idea
+<ul style="list-style: square">
 
-                            </li><li>
+                            <li>
+                                Each team will submit a document providing details of Team(Team Size, Name and Id of the members) , App name, App Idea, Scope of Idea/Applications.
+</li>
                     </ul>
+
+<br/>Deadline for submission of Ideas:
+<br/>Category 1 : TBD
+<br/>Category 2 : TBD
+<br/><br/>The shortlisted teams will be announced:
+<br/>Category 1 : TBD
+<br/>Category 2 : TBD
+<br/> 
+<br/>Phase 2: App development/WireFraming
+<br/> Category 1 : Shortlisted teams have to present their working apps on 24th October 2015.
+<br/> Category 2 : Shortlisted teams have to present/demonstrate the prototype of the app on 23rd October 2015.
+
+                            
                     <br/>
 
+<br/>In any case of discrepancy, decision of the Judges , coordinators and committee stands final.
+<br/>
+<br/>Contact Details:
+<br/>Jaya Mundra : +91-8511574627
+<br/>Komal Falodiya : +91-8128243454
+<br/>
                 </div>
             </div>
         </li><li class="tech item-p" style="display: inline-block; opacity: 1;">
@@ -728,10 +905,29 @@
                 <h1><i class="fa fa-close"></i></h1>
                 <div style="display: inline">
                     <br/>
+                    
+                    
+                    a) Line Follower:
                     <ul style="list-style: square">
 
-                    </li><li>
-            </ul>
+<li>Teams have to build an autonomous robot which can sense and follow a contrasting line(either black line on white background or vice-versa).
+</li><li>The bot has to complete the track in minimum possible time. The arena would consist of obstacles like spaces between the tracks (break of line) etc.  
+</li><li>The exact specifications and rule would be updated soon.
+</li>
+</ul>
+        <br/><br/>            
+b) Manual BOT Roborace :
+<ul style="list-style: square">
+
+            <li>Build a manually driven robot to complete the track in minimum possible time. There would be obstacles like ramp,see-saw etc .
+</li><li>There would be penalties too which would specified later.  
+</li>
+</ul>
+<br/>
+<br/>Contact Details:
+<br/>Vaidehi Darji : +91-9974048310
+<br/>Pratish Anand : +91-9727126986
+
             <br/>
 
         </div>
@@ -1088,11 +1284,18 @@ Structure:
         <h1><i class="fa fa-close"></i></h1>
         <div style="display: inline">
             <br/>
-            <ul style="list-style: square">
-
-            </li><li>
-    </ul>
-    <br/>
+            <br/>Date: 24th October, 2015
+<br/>Time: 7:30pm Onwards
+<br/>Venue: TBD
+<br/>Event Duration: 1hour
+<br/><br/>The questions would be based on logical reasoning and general aptitude e.g. teasing puzzles, crosswords, word twisters, etc.
+<br/>Questions would be divided into two categories –simple and not so simple
+<br/><br/>In case of any disputes, decision of IEEE Student Branch DAIICT and co-ordinators will be final.
+<br/><br/>
+<br/>Contact Details:
+<br/>Dhruv Bhutani : +91-9624162970
+<br/>Dhaval Vora : +91-8460311660
+<br/>
 
 </div>
 </div>
@@ -1275,12 +1478,35 @@ Date: 24th October, 2015
         <h1><i class="fa fa-close"></i></h1>
         <div style="display: inline">
             <br/>
-            <ul style="list-style: square">
-
-            </li><li>
-    </ul>
+            
     <br/>
+<br/>If you have a knack for solving puzzles and like boggling your mind with it, this is the event for you! Exercise your brain and show your logic and problem solving capabilities, by solving some fun questions specifically designed to challenge them.
+<br/>Like watching Sherlock Holmes? We are sure you would enjoy participating in this event. 
+<br/>
+<br/>Date: 25th October, 2015
+<br/>Time: 2:00pm Onwards
+<br/>Venue: TBD
+<br/>Event Duration: 1.30hours
+<br/>
+<ul style="list-style: square">
 
+            
+    
+<li>This is an offline event for individual participation.
+</li><li>It will be of 1.5 hours duration.
+</li><li>Questions would be divided into two sections:
+</li><li>Questions having easy to moderate difficulty level: You need to qualify this section in order to be judged for the next one.
+</li><li>Questions of difficult level: This section will be the deciding one!
+</li><li>Questions would be of varying types like MCQs, fill in the blanks and one word answers.
+</li><li>Registrations will be online as well as on the spot.
+</li></ul>
+<br/>
+The decision of the coordinators shall be final in case of any discrepancies.
+<br/>
+<br/>Contact Details:
+<br/>Sakshi Mangal : +91-8128245490
+<br/>Mahima Achhpal : +91-9601033422
+<br/>
 </div>
 </div>
 </li>
@@ -1322,10 +1548,25 @@ Date: 24th October, 2015
         <h1><i class="fa fa-close"></i></h1>
         <div style="display: inline">
             <br/>
-            <ul style="list-style: square">
+            
+    
+     <br/>       Date: 25th October, 2015 
+<br/>Time: 3:00pm Onwards
+<br/>Venue: TBD
+<br/>Event Duration: 1.30hours
+<br/>
+<br/>The quiz will consist of two parts, viz. Prelims and the Mains.
+<ul style="list-style: square">
 
-            </li><li>
-    </ul>
+            <li>The Prelims will be a short round of around 45 minutes and will consist of 20 questions. 
+</li><li>The top 6 teams, which will be decided on the basis of the scores of the prelims, will qualify for the second round: the Mains. 
+</li><li>The Mains will consist of 5 rounds, 2 written and 2 pounce and a visual connect. The mains will take around 2 hours.
+</li>
+</ul>
+<br/>Contact Details:
+<br/>Shubranshu Jha : +91-8238336119
+<br/>Kevin Vegda : +91-7405587871
+
     <br/>
 
 </div>

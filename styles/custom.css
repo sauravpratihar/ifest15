@@ -1285,7 +1285,7 @@ textarea.textareaHintState, .textareaHintState textarea {
     .pointer-right,
     .pointer-left {
         background: url(../img/pointers-small.png) no-repeat;
-        width: 15px;		
+        width: 15px;        
     }
     .pointer-right {
         right: -15px;
