@@ -1682,7 +1682,7 @@
 
                                                                     <br/><br/></p>
                                                                     <a href='#register' class="register"> Register </a>
-                                                                    <a class="viewmorebox">View More Details</a>
+                                                                    
                                                                 </div>
 
                                                                 <div class="og-details span8">
@@ -1698,18 +1698,7 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div><div class="viewmore">
-                                                        <h1><i class="fa fa-close"></i></h1>
-                                                        <div style="display: inline">
-                                                            <br/>
-                                                            <ul style="list-style: square">
-
-                                                            </li><li>
-                                                    </ul>
-                                                    <br/>
-
-                                                </div>
-                                            </div>
+                                                    </div>
                                         </li>
                                         <li class="tech item-p" style="display: inline-block; opacity: 1;">
                                             <a  href=""> <span class="figcap"></span>
@@ -2029,7 +2018,7 @@
                                                             <br/><i class='fa fa-calendar'></i> Time: 
                                                             <br/><br/></p>
                                                             <a href='#register' class="register"> Register </a>
-                                                            <a class="viewmorebox">View More Details</a>
+                                                            
                                                         </div>
 
                                                         <div class="og-details span8">
@@ -2045,18 +2034,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div><div class="viewmore">
-                                                <h1><i class="fa fa-close"></i></h1>
-                                                <div style="display: inline">
-                                                    <br/>
-                                                    <ul style="list-style: square">
-
-                                                    </li><li>
-                                            </ul>
-                                            <br/>
-
-                                        </div>
-                                    </div>
+                                            </div>
                                 </li>
 
                                 </ul>
