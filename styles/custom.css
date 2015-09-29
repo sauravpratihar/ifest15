@@ -1399,7 +1399,7 @@ textarea.textareaHintState, .textareaHintState textarea {
     }
 
 p.fee {
-    position: inherit;
+    position: relative;
 }
     .quotation-mark {
         display: none;
