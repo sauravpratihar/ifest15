@@ -89,8 +89,8 @@
                                         data-row="1" data-col="2" data-sizex="1" data-sizey="1"
                                         class="">
                                         <div class="img_icon_container">
-                                            <i class="fa fa-users" style="margin-top: 12%;"></i>
-                                        </div> <span class="title" style="text-align: center">Contact Us</span>
+                                            <i class="fa fa-users"></i>
+                                        </div> <span class="title" style="margin-top: 12%; text-align: center">Contact Us</span>
                                     </li>
 
                                     <li page="7" onclick="gotoPage(7, 30)" url="gallery"
