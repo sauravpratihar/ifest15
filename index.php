@@ -159,7 +159,12 @@
                     <!--Footer-->
                     <footer>
                         <div class="container">
-                            <p class="dark">© DA-IICT i.Fest. 2015 - Website developed by Daiictians!</p>
+                            <p class="dark">© DA-IICT i.Fest. 2015 - Website developed by Daiictians!
+                                <span style="padding: 10px;">|</span>                                <span>
+                            Follow us on <a href='https://www.facebook.com/ifest15' target="_blank"><i class='fa fa-facebook-official'></i></a>
+                            </span>
+                            </p>
+                            
                         </div>
                     </footer>
                 </div>
@@ -171,7 +176,7 @@
                     <!--Header-->
                     <header class="row-fluid">
                         <div class='social'>
-                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a href='https://www.facebook.com/ifest15' target="_blank"><i class='fa fa-facebook-official'></i></a>
                                                                 <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
                                                             </div>
                         <div class="container">
@@ -242,7 +247,7 @@
                     <!--Header-->
                     <header class="row-fluid">
                         <div class='social'>
-                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a href='https://www.facebook.com/ifest15' target="_blank"><i class='fa fa-facebook-official'></i></a>
                                                                 <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
                                                             </div>
                         <div class="container">
@@ -414,7 +419,7 @@
                     <!--Header-->
                     <header class="row-fluid">
                         <div class='social'>
-                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a href='https://www.facebook.com/ifest15' target="_blank"><i class='fa fa-facebook-official'></i></a>
                                                                 <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
                                                             </div>
                         <div class="container">
@@ -2070,7 +2075,7 @@
                                                         <!--Header-->
                                                         <header class="row-fluid">
                                                             <div class='social'>
-                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a href='https://www.facebook.com/ifest15' target="_blank"><i class='fa fa-facebook-official'></i></a>
                                                                 <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
                                                             </div>
                                                             <div class="container">
@@ -2165,7 +2170,7 @@
                                                         <!--Header-->
                                                         <header class="row-fluid">
                                                             <div class='social'>
-                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a href='https://www.facebook.com/ifest15' target="_blank"><i class='fa fa-facebook-official'></i></a>
                                                                 <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
                                                             </div>
                                                             <div class="viewmore" id="map">
@@ -2749,7 +2754,7 @@
                                                         <!--Header-->
                                                         <header class="row-fluid">
                                                             <div class='social'>
-                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a href='https://www.facebook.com/ifest15' target="_blank"><i class='fa fa-facebook-official'></i></a>
                                                                 <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
                                                             </div>
                                                             <div class="container">
@@ -2916,7 +2921,7 @@
                                                         <!--Header-->
                                                         <header class="row-fluid">
                                                             <div class='social'>
-                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a href='https://www.facebook.com/ifest15' target="_blank"><i class='fa fa-facebook-official'></i></a>
                                                                 <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
                                                             </div>
                                                             <div class="container">
