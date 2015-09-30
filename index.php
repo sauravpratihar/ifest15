@@ -13,7 +13,7 @@
         <link rel="apple-touch-icon" sizes="139x180" href="img/fav_135.png">
         <link rel="icon" type="image/png" href="img/favicon.png" sizes="32x32">
 
-        <title>DA-IICT IEEE IFest 15 - Embedding Ingenuity</title>
+        <title>i.Fest 15 - Embedding Ingenuity</title>
         <script
             src="./js/heartcode-canvasloader-min-0.9.1.js"
         type="text/javascript"></script>
@@ -61,7 +61,7 @@
                             <div class="span6 logo title-logo" style="margin-left:2% !important">
                                 <h1 class="dark">i.Fest'15</h1>
                                 <h2 class="dark">Embedding Ingenuity<span style="font-size: 0.5em;display: block;">(23rd Oct. to 25th Oct.)</span></h2>
-                                <!--<div><img src="img/ieee.png" style="margin-top: -5%"/></div>-->
+                                <div><img src="img/ieee.png" style="margin-top: -5%"/></div>
 
                             </div><div class="span1"></div>
                             <div class="span2 logo-img" ><img src="img/logoifest.png" style="    margin: 0 auto;display: table;"/></div>
@@ -80,7 +80,7 @@
                                         data-row="1" data-col="1" data-sizex="1" data-sizey="1"
                                         class="" >
                                         <div class="img_icon_container">
-                                            <i class="fa fa-terminal"></i>
+                                            <i class="fa fa-institution"></i>
                                         </div> <span class="title" style="margin-top: 15%;">About Us</span>
                                     </li>
 
@@ -90,7 +90,7 @@
                                         class="">
                                         <div class="img_icon_container">
                                             <i class="fa fa-users" style="margin-top: 12%;"></i>
-                                        </div> <span class="title" style="text-align: center">Contact Our Team</span>
+                                        </div> <span class="title" style="text-align: center">Contact Us</span>
                                     </li>
 
                                     <li page="7" onclick="gotoPage(7, 30)" url="gallery"
@@ -115,7 +115,7 @@
                                         data-row="2" data-col="1" data-sizex="2" data-sizey="1"
                                         class="">
                                         <div class="img_icon_container">
-                                            <i class="fa fa-thumbs-o-up"></i>
+                                            <i class="fa fa-child"></i>
                                         </div> <span class="title">Sponsors</span>
                                     </li>
 
@@ -170,6 +170,10 @@
                 <div class="outer-wrapper" style="background-color: rgba(255,255,255,0.95);">
                     <!--Header-->
                     <header class="row-fluid">
+                        <div class='social'>
+                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
+                                                            </div>
                         <div class="container">
                             <div class="span12 relative">
                                 <div class="page-navi">
@@ -237,6 +241,10 @@
                 <div class="outer-wrapper" style="background-color:  rgba(255,255,255,0.95);">
                     <!--Header-->
                     <header class="row-fluid">
+                        <div class='social'>
+                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
+                                                            </div>
                         <div class="container">
                             <div class="span12 relative">
                                 <div class="page-navi">
@@ -405,6 +413,10 @@
                 <div class="outer-wrapper" style="background-color:  rgba(255,255,255,0.95);">
                     <!--Header-->
                     <header class="row-fluid">
+                        <div class='social'>
+                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
+                                                            </div>
                         <div class="container">
                             <div class="span12 relative">
                                 <div class="page-navi">
@@ -697,6 +709,185 @@
                                         </div>
                                     </div>
                                 </li>
+                                <li class="fun item-p" style="display: inline-block; opacity: 1;">
+                                    <a  href=""> <span class="figcap"></span>
+                                        <h2 class="title-event" style="border-color:#4285F4;">Treasure Hunt</h2>
+                                        <hr/>
+                                        <h2><i class="fa fa-tags"></i>Fun Event</h2>
+                                    </a>
+                                    <div class="full og-expander">
+                                        <div class="og-expander-inner">
+                                            <span class="og-close"></span>
+                                            <div class='container'>
+                                                <div class="span4  event-details">
+                                                    <p>
+                                                    <u><b>Event Details:</b> </u><br/>
+                                                    <br/><i class='fa fa-bookmark-o'></i> Treasure Hunt
+                                                    <br/><i class='fa fa-map-marker'></i> Venue: TBD
+                                                    <br/><i class='fa fa-calendar'></i> Time: 17:00 - 19:00
+                                                    <br/><br/></p>
+                                                    <a href='#register' class="register"> Register </a>
+                                                    <a class="viewmorebox">View More Details</a>
+                                                </div>
+
+                                                <div class="og-details span8">
+                                                    <h3>Treasure Hunt</h3>
+                                                    <div class="og-tags">
+                                                        <span><p>Category: <i class="fa fa-tag"></i> Fun</p></span>
+                                                    </div>
+                                                    <div class="">
+                                                        <p>
+                                                            A secret treasure expedition will be conducted within the territory of DAIICT. What danger may lie in your path? Dare to unveil the forbidden treasures that lie within the shadows. A complete fun-filled event where the students hunt for various "treasures” around the campus.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div><div class="viewmore">
+                                        <h1><i class="fa fa-close"></i></h1>
+                                        <div style="display: inline">
+                                            <br/>
+
+
+                                            <br/>Date: 24th October, 2015
+                                            <br/>Time: 5:00pm Onwards
+                                            <br/>Venue: Cafeteria
+                                            <br/>Event Duration: 2 hours
+                                            <br/>
+                                            <br/>Treasure hunt is one of the fun filled events of iFest. Our campus presents the prefect venue to make it an exciting and adventurous treasure trail. It's a great opportunity for the first years to discover the campus, form new friendships, have great fun and win goodies along the way. Go on and engage in this challenging yet thrilling hunt on one hell of a campus !!!
+                                            <br/>
+                                            <br/>
+                                            <br/>Rules and Regulations :
+                                            <ul style="list-style: square">
+                                                <li>Each team should consists of max. of 5 members
+                                                </li><li>Every member of the team should have registered and paid to take part in any i.Fest event.
+                                                </li><li>Each team will be allotted different routes and should abide by them.
+                                                </li>
+                                            </ul>
+                                            <br/><br/>In case of discrepancies, i.Fest committee’s and coordinators decision stands final
+                                            <br/>
+                                            <br/>Contact Details:
+                                            <br/>Madhuri Jain : +91-9601032344
+                                            <br/>Amisha Singhla : +91-7048336371
+                                            <br/>
+                                            <br/>
+
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="fun item-p" style="display: inline-block; opacity: 1;">
+                                                    <a  href=""> <span class="figcap"></span>
+                                                        <h2 class="title-event" style="border-color:#34A853;">i.Clash </h2>
+                                                        <hr/>
+                                                        <h2><i class="fa fa-tags"></i>Fun Event</h2>
+                                                    </a>
+                                                    <div class="full og-expander">
+                                                        <div class="og-expander-inner">
+                                                            <span class="og-close"></span>
+                                                            <div class='container'>
+                                                                <div class="span4  event-details">
+                                                                    <p>
+                                                                    <u><b>Event Details:</b> </u><br/>
+                                                                    <br/><i class='fa fa-bookmark-o'></i> i.Clash 
+                                                                    <br/><i class='fa fa-map-marker'></i> Venue: TBD
+                                                                    <br/><i class='fa fa-calendar'></i> Time: 
+                                                                    <br/><br/></p>
+                                                                    <a href='#register' class="register"> Register </a>
+                                                                    <a class="viewmorebox">View More Details</a>
+                                                                </div>
+
+                                                                <div class="og-details span8">
+                                                                    <h3>i.Clash </h3>
+                                                                    <div class="og-tags">
+                                                                        <span><p>Category: <i class="fa fa-tag"></i> Fun</p></span>
+                                                                    </div>
+                                                                    <div class="">
+                                                                        <p>
+                                                                            Do you get an adrenaline rush while playing games? Then this event is what you've been waiting for! Bringing you the gaming experience of Counterstrike, Dota and NFS for the first time in i.Fest.
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><div class="viewmore">
+                                                        <h1><i class="fa fa-close"></i></h1>
+                                                        <div style="display: inline">
+                                                            <br/>
+
+
+                                                            <br/>"Gamers dont die they just respawn"
+                                                            <br/><br/>
+                                                            For the first time in the history of i.fest. we present you i-Clash, a place to show off your gaming skills and win exciting prizes. Unleash the gamer in you and let others know who is the real PRO.
+                                                            <br/><br/>
+                                                            Event Structure:
+                                                            <br/>
+                                                            There are two games in i.Clash: CS 1.6 and DOTA 2. There will be two rounds for each game : Hostel Rounds (Open only for DAIICT students) and Lab Rounds.
+                                                            <br/><br/>
+                                                            Hostel Rounds: 
+                                                            <ul style="list-style: square">
+                                                                <li>Open for only DAIICT students.
+                                                                </li><li>The pools for each game will be decided based on the number of registrations received and will be conveyed to the participants. The hostel rounds will start from first week of October.
+                                                                </li><li>Top 3 teams from the hostel round will proceed to the lab rounds.
+                                                                </li>
+                                                            </ul>
+                                                            <br/>
+                                                            <br/>
+                                                            Lab Rounds:
+                                                            <ul style="list-style: square">
+                                                                <li>Open for all (Only college students are allowed, so you must present the ID card of your college at the time of registrations).
+                                                                </li><li>The top 3 teams of the hostel round and other teams who have registered for the lab rounds will compete with each other during the three days of iFest 2015 and the top 2 teams will win exciting prizes.
+                                                                </li></ul>
+
+                                                            <br/>Note: On-the-spot registrations will be closed after day 1 i.e. 23rd October.
+
+                                                            <br/><br/>Game Structure: 
+                                                            <br/>CS 1.6:
+                                                            <ul style="list-style: square">
+                                                                <li>Maps : de_dust2, de_nuke, de_inferno, de_train
+                                                                </li><li>First of all there will be a knife round to decide the first map. After that the opposing team will select the second map.
+                                                                </li></ul>
+                                                            <br/><br/>
+                                                            DOTA 2: 
+                                                            <ul style="list-style: square">
+                                                                <li>Format : Winners-Losers Bracket
+                                                                </li><li>Game Mode : Captian's Mode (5 v 5)
+                                                                </li><li>Game will start with a coin toss. The team which wins the toss will choose only one of the two:
+
+                                                                    <ul style="list-style: square">
+                                                                        <li>Choose Radiant/Dire side of the map to start
+                                                                        </li><li>First pick
+                                                                        </li>
+                                                                    </ul>
+                                                                </li>
+                                                            </ul>
+                                                            <br/>
+                                                            <br/>
+                                                            Rules:
+                                                            <ul style="list-style: square">
+
+                                                                <li>Only college students can participate in this event. Each team member must present their student ID card at the time of registration.
+                                                                </li><li>One player will be allowed to play from only one team. 
+                                                                </li><li>If all the members of a team are not present at the time of their match then that team will be disqualified. 
+                                                                </li><li>Teams can bring one extra player for substitution, but substitution can only be made before the game starts. During the game, player substitution and exchange of seats will not be allowed. 
+                                                                </li><li>If a team is knocked out in hostel rounds then they can re-register for lab rounds but only those teams who were part of the hostel rounds will be allowed to re-register.
+                                                                </li><li>Pause/Resume Abuse: Pausing without any valid reason is disallowed. Resuming the game without the other team confirming that they are ready is not allowed either. If someone pauses the game without a valid reason, they will receive a warning.
+                                                                </li><li>In-case any player is disconnected, the game will be paused until that player reconnects.
+                                                                </li><li>In Dota, in case of server crash, new match will start with the same draft.
+                                                                </li><li>Any form of cheating or exploitation of bugs is not allowed. The team using any cheats/bugs will be disqualified immediately. 
+                                                                </li><li>In case of any discrepancies the decision of the coordinators will be final and binding.
+                                                                </li>
+                                                            </ul>
+                                                            <br/>
+                                                            <br/>Contact Details:
+                                                            <br/>Siddharth Dalmia (Dota) : +91-8866195514
+                                                            <br/>Shri Ram Hansda (CS) :  +91-7600640861
+
+
+                                                            <br/>
+
+                                                        </div>
+                                                    </div>
+                                                </li>
                                 <li class="tech item-p" style="display: inline-block; opacity: 1;">
                                     <a  href=""> <span class="figcap"></span>
                                         <h2 class="title-event" style="border-color:#34A853;">i.Ganith</h2>
@@ -1199,72 +1390,7 @@
                                         </div>
                                     </div>
                                 </li>
-                                <li class="fun item-p" style="display: inline-block; opacity: 1;">
-                                    <a  href=""> <span class="figcap"></span>
-                                        <h2 class="title-event" style="border-color:#4285F4;">Treasure Hunt</h2>
-                                        <hr/>
-                                        <h2><i class="fa fa-tags"></i>Fun Event</h2>
-                                    </a>
-                                    <div class="full og-expander">
-                                        <div class="og-expander-inner">
-                                            <span class="og-close"></span>
-                                            <div class='container'>
-                                                <div class="span4  event-details">
-                                                    <p>
-                                                    <u><b>Event Details:</b> </u><br/>
-                                                    <br/><i class='fa fa-bookmark-o'></i> Treasure Hunt
-                                                    <br/><i class='fa fa-map-marker'></i> Venue: TBD
-                                                    <br/><i class='fa fa-calendar'></i> Time: 17:00 - 19:00
-                                                    <br/><br/></p>
-                                                    <a href='#register' class="register"> Register </a>
-                                                    <a class="viewmorebox">View More Details</a>
-                                                </div>
-
-                                                <div class="og-details span8">
-                                                    <h3>Treasure Hunt</h3>
-                                                    <div class="og-tags">
-                                                        <span><p>Category: <i class="fa fa-tag"></i> Fun</p></span>
-                                                    </div>
-                                                    <div class="">
-                                                        <p>
-                                                            A secret treasure expedition will be conducted within the territory of DAIICT. What danger may lie in your path? Dare to unveil the forbidden treasures that lie within the shadows. A complete fun-filled event where the students hunt for various "treasures” around the campus.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div><div class="viewmore">
-                                        <h1><i class="fa fa-close"></i></h1>
-                                        <div style="display: inline">
-                                            <br/>
-
-
-                                            <br/>Date: 24th October, 2015
-                                            <br/>Time: 5:00pm Onwards
-                                            <br/>Venue: Cafeteria
-                                            <br/>Event Duration: 2 hours
-                                            <br/>
-                                            <br/>Treasure hunt is one of the fun filled events of iFest. Our campus presents the prefect venue to make it an exciting and adventurous treasure trail. It's a great opportunity for the first years to discover the campus, form new friendships, have great fun and win goodies along the way. Go on and engage in this challenging yet thrilling hunt on one hell of a campus !!!
-                                            <br/>
-                                            <br/>
-                                            <br/>Rules and Regulations :
-                                            <ul style="list-style: square">
-                                                <li>Each team should consists of max. of 5 members
-                                                </li><li>Every member of the team should have registered and paid to take part in any i.Fest event.
-                                                </li><li>Each team will be allotted different routes and should abide by them.
-                                                </li>
-                                            </ul>
-                                            <br/><br/>In case of discrepancies, i.Fest committee’s and coordinators decision stands final
-                                            <br/>
-                                            <br/>Contact Details:
-                                            <br/>Madhuri Jain : +91-9601032344
-                                            <br/>Amisha Singhla : +91-7048336371
-                                            <br/>
-                                            <br/>
-
-                                        </div>
-                                    </div>
-                                </li>
+                                
 
                                 <li class="fun item-p" style="display: inline-block; opacity: 1;">
                                     <a  href=""> <span class="figcap"></span>
@@ -1683,7 +1809,7 @@
 
                                                                     <br/><br/></p>
                                                                     <a href='#register' class="register"> Register </a>
-                                                                    
+
                                                                 </div>
 
                                                                 <div class="og-details span8">
@@ -1700,1322 +1826,1227 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                        </li>
-                                        <li class="tech item-p" style="display: inline-block; opacity: 1;">
-                                            <a  href=""> <span class="figcap"></span>
-                                                <h2 class="title-event" style="border-color:#FBBD06;">i.Code</h2>
-                                                <hr/>
-                                                <h2><i class="fa fa-tags"></i>Technical Event</h2>
-                                            </a>
-                                            <div class="full og-expander">
-                                                <div class="og-expander-inner">
-                                                    <span class="og-close"></span>
-                                                    <div class='container'>
-                                                        <div class="span4  event-details">
-                                                            <p>
-                                                            <u><b>Event Details:</b> </u><br/>
-                                                            <br/><i class='fa fa-bookmark-o'></i> i.Code
-                                                            <br/><i class='fa fa-map-marker'></i> Venue: TBD
-                                                            <br/><i class='fa fa-calendar'></i> Time: 
-                                                            <br/><br/></p>
-                                                            <a href='#register' class="register"> Register </a>
-                                                            <a class="viewmorebox">View More Details</a>
-                                                        </div>
+                                                </li>
+                                                <li class="tech item-p" style="display: inline-block; opacity: 1;">
+                                                    <a  href=""> <span class="figcap"></span>
+                                                        <h2 class="title-event" style="border-color:#FBBD06;">i.Code</h2>
+                                                        <hr/>
+                                                        <h2><i class="fa fa-tags"></i>Technical Event</h2>
+                                                    </a>
+                                                    <div class="full og-expander">
+                                                        <div class="og-expander-inner">
+                                                            <span class="og-close"></span>
+                                                            <div class='container'>
+                                                                <div class="span4  event-details">
+                                                                    <p>
+                                                                    <u><b>Event Details:</b> </u><br/>
+                                                                    <br/><i class='fa fa-bookmark-o'></i> i.Code
+                                                                    <br/><i class='fa fa-map-marker'></i> Venue: TBD
+                                                                    <br/><i class='fa fa-calendar'></i> Time: 
+                                                                    <br/><br/></p>
+                                                                    <a href='#register' class="register"> Register </a>
+                                                                    <a class="viewmorebox">View More Details</a>
+                                                                </div>
 
-                                                        <div class="og-details span8">
-                                                            <h3>i.Code</h3>
-                                                            <div class="og-tags">
-                                                                <span><p>Category: <i class="fa fa-tag"></i> Technical</p></span>
-                                                            </div>
-                                                            <div class="">
-                                                                <p>
-                                                                    Here’s where the programming enthusiasts gets to showcase their skills on the geek-o-meter. Join the coding revolution!
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div><div class="viewmore">
-                                                <h1><i class="fa fa-close"></i></h1>
-                                                <div style="display: inline">
-                                                    <br/>
-                                                    <br/>Date: TBD
-                                                    <br/>Time: TBD
-                                                    <br/>Venue: Lab Building (Online Event)
-                                                    <br/>Event Duration: 3hours
-                                                    <br/>
-                                                    <br/>Event Structure
-                                                    <br/>
-                                                    <br/>There will be only one round comprising of five to six problem statements.
-                                                    <br/>
-                                                    <br/>Rules and Regulations:
-                                                    <ul style="list-style: square">
-                                                        <li> Contest is open for all the participants of iFest. 
-                                                        </li><li>    The contest is for individuals. No teams are allowed.
-                                                        </li><li>    Each program will be tested based on test cases provided by us. However output and input should be exactly as specified in the samples provided.
-                                                        </li><li>    Any kind of plagiarism will lead to disqualification. 
-                                                        </li></ul>
-
-                                                    <br/>
-                                                    <br/>Judging Criteria:
-                                                    <ul style="list-style: square">
-                                                        <li> Different problems have different points based on their relative difficulty level.
-                                                        </li><li> Users are ranked according to the most problems solved. Ties will be broken by the total time for each user in ascending order of time.
-                                                        </li><li> The decision of the organizers in declaring the results will be final. No queries in this regard will be entertained.
-                                                        </li></ul>
-                                                    <br/>
-                                                    <br/>Contact Details:
-                                                    <br/>Utsav Vyas : +91-9510872145
-                                                    <br/>Parth Panchal : +91-9712916367
-                                                    <br/>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="fun item-p" style="display: inline-block; opacity: 1;">
-                                            <a  href=""> <span class="figcap"></span>
-                                                <h2 class="title-event" style="border-color:#4285F4;">i.Decipher</h2>
-                                                <hr/>
-                                                <h2><i class="fa fa-tags"></i>Fun Event</h2>
-                                            </a>
-                                            <div class="full og-expander">
-                                                <div class="og-expander-inner">
-                                                    <span class="og-close"></span>
-                                                    <div class='container'>
-                                                        <div class="span4  event-details">
-                                                            <p>
-                                                            <u><b>Event Details:</b> </u><br/>
-                                                            <br/><i class='fa fa-bookmark-o'></i> i.Decipher
-                                                            <br/><i class='fa fa-map-marker'></i> Venue: TBD
-                                                            <br/><i class='fa fa-calendar'></i> Time: 
-                                                            <br/><br/></p>
-                                                            <a href='#register' class="register"> Register </a>
-                                                            <a class="viewmorebox">View More Details</a>
-                                                        </div>
-
-                                                        <div class="og-details span8">
-                                                            <h3>i.Decipher</h3>
-                                                            <div class="og-tags">
-                                                                <span><p>Category: <i class="fa fa-tag"></i> Fun</p></span>
-                                                            </div>
-                                                            <div class="">
-                                                                <p>
-                                                                    If visual clues and neuron twisting questions lead to a sudden surge of impulses in your cerebral cortex, then you are at the right place. Do your best to find the elusive link and fill in the tantalizing blanks. Visual questions are to be decoded and connected to move towards the next sequence.
-
-                                                                </p>
+                                                                <div class="og-details span8">
+                                                                    <h3>i.Code</h3>
+                                                                    <div class="og-tags">
+                                                                        <span><p>Category: <i class="fa fa-tag"></i> Technical</p></span>
+                                                                    </div>
+                                                                    <div class="">
+                                                                        <p>
+                                                                            Here’s where the programming enthusiasts gets to showcase their skills on the geek-o-meter. Join the coding revolution!
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                         </div>
-                                                    </div>
-                                                </div>
-                                            </div><div class="viewmore">
-                                                <h1><i class="fa fa-close"></i></h1>
-                                                <div style="display: inline">
-                                                    <br/>
-
-                                                    <br/>       Are you creative and can connect your thoughts speedily and efficiently?
-                                                    <br/>Here's how to ignite your spark!
-                                                    <br/>
-                                                    <br/>Date: TBD
-                                                    <br/>Time: TBD
-                                                    <br/>Venue: Online Event
-                                                    <br/>Event Duration: TBD
-                                                    <br/><br/>
-
-                                                    Structure:
-                                                    <ul style="list-style: square">
-                                                        <li>An online event. 
-                                                        </li><li>Max. team size of 2 per team.
-                                                        </li><li>There will be questions in form of the images, which you will have to decode what it says or represents. To do this you collectively need to apply your general knowledge and skills of “connected thinking”.
-                                                        </li><li>For example, if Kung Fu Panda, Happy Feet and a Humming Bird is shown in the question, the answer is Google Search Algorithms. Hints may also be provided for some questions as per public demand.
-                                                        </li><li>You need to acknowledge and retrieve your great knowledge of google search and google image search.
-                                                        </li><li>Basic general knowledge.
-                                                        </li></ul>
-                                                    <br/>
-                                                    <br/>
-                                                    <br/>“Google knows everything but do you have the art to google it?”
-                                                    <br/>
-                                                    <br/>Contact Details:
-                                                    <br/>Dhaval Panjwani : +91-9408728111
-                                                    <br/>Saurav Pratihar : +91-9033399314
-
-
-                                                    <br/>
-
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="fun item-p" style="display: inline-block; opacity: 1;">
-                                            <a  href=""> <span class="figcap"></span>
-                                                <h2 class="title-event" style="border-color:#FBBD06;">i.Capture and i.Design</h2>
-                                                <hr/>
-                                                <h2><i class="fa fa-tags"></i>Fun Event</h2>
-                                            </a>
-                                            <div class="full og-expander">
-                                                <div class="og-expander-inner">
-                                                    <span class="og-close"></span>
-                                                    <div class='container'>
-                                                        <div class="span4  event-details">
-                                                            <p>
-                                                            <u><b>Event Details:</b> </u><br/>
-                                                            <br/><i class='fa fa-bookmark-o'></i> i.Capture and i.Design
-                                                            <br/><i class='fa fa-map-marker'></i> Venue: TBD
-                                                            <br/><i class='fa fa-calendar'></i> Time: 
-                                                            <br/><br/></p>
-                                                            <a href='#register' class="register"> Register </a>
-                                                            <a class="viewmorebox">View More Details</a>
-                                                        </div>
-
-                                                        <div class="og-details span8">
-                                                            <h3>i.Capture and i.Design</h3>
-                                                            <div class="og-tags">
-                                                                <span><p>Category: <i class="fa fa-tag"></i> Fun</p></span>
-                                                            </div>
-                                                            <div class="">
-                                                                <p>
-                                                                    Always looking to capture moments and make beauty last forever? Are you an amateur photographer or a photography enthusiast? Do you understand the craft of taking pictures, documenting a story, conceptualizing an idea and capturing emotions? If so, then this is the competition for you!
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div><div class="viewmore">
-                                                <h1><i class="fa fa-close"></i></h1>
-                                                <div style="display: inline">
-                                                    <br/>
-                                                    <br/>Contact Details : 
-                                                    <br/>Pragnesh Patel : +91-8460073837
-                                                    <br/>
-
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="fun item-p" style="display: inline-block; opacity: 1;">
-                                            <a  href=""> <span class="figcap"></span>
-                                                <h2 class="title-event" style="border-color:#34A853;">i.Clash </h2>
-                                                <hr/>
-                                                <h2><i class="fa fa-tags"></i>Fun Event</h2>
-                                            </a>
-                                            <div class="full og-expander">
-                                                <div class="og-expander-inner">
-                                                    <span class="og-close"></span>
-                                                    <div class='container'>
-                                                        <div class="span4  event-details">
-                                                            <p>
-                                                            <u><b>Event Details:</b> </u><br/>
-                                                            <br/><i class='fa fa-bookmark-o'></i> i.Clash 
-                                                            <br/><i class='fa fa-map-marker'></i> Venue: TBD
-                                                            <br/><i class='fa fa-calendar'></i> Time: 
-                                                            <br/><br/></p>
-                                                            <a href='#register' class="register"> Register </a>
-                                                            <a class="viewmorebox">View More Details</a>
-                                                        </div>
-
-                                                        <div class="og-details span8">
-                                                            <h3>i.Clash </h3>
-                                                            <div class="og-tags">
-                                                                <span><p>Category: <i class="fa fa-tag"></i> Fun</p></span>
-                                                            </div>
-                                                            <div class="">
-                                                                <p>
-                                                                    Do you get an adrenaline rush while playing games? Then this event is what you've been waiting for! Bringing you the gaming experience of Counterstrike, Dota and NFS for the first time in i.Fest.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div><div class="viewmore">
-                                                <h1><i class="fa fa-close"></i></h1>
-                                                <div style="display: inline">
-                                                    <br/>
-
-
-                                                    <br/>"Gamers dont die they just respawn"
-                                                    <br/><br/>
-                                                    For the first time in the history of i.fest. we present you i-Clash, a place to show off your gaming skills and win exciting prizes. Unleash the gamer in you and let others know who is the real PRO.
-                                                    <br/><br/>
-                                                    Event Structure:
-                                                    <br/>
-                                                    There are two games in i.Clash: CS 1.6 and DOTA 2. There will be two rounds for each game : Hostel Rounds (Open only for DAIICT students) and Lab Rounds.
-                                                    <br/><br/>
-                                                    Hostel Rounds: 
-                                                    <ul style="list-style: square">
-                                                        <li>Open for only DAIICT students.
-                                                        </li><li>The pools for each game will be decided based on the number of registrations received and will be conveyed to the participants. The hostel rounds will start from first week of October.
-                                                        </li><li>Top 3 teams from the hostel round will proceed to the lab rounds.
-                                                        </li>
-                                                    </ul>
-                                                    <br/>
-                                                    <br/>
-                                                    Lab Rounds:
-                                                    <ul style="list-style: square">
-                                                        <li>Open for all (Only college students are allowed, so you must present the ID card of your college at the time of registrations).
-                                                        </li><li>The top 3 teams of the hostel round and other teams who have registered for the lab rounds will compete with each other during the three days of iFest 2015 and the top 2 teams will win exciting prizes.
-                                                        </li></ul>
-
-                                                    <br/>Note: On-the-spot registrations will be closed after day 1 i.e. 23rd October.
-
-                                                    <br/><br/>Game Structure: 
-                                                    <br/>CS 1.6:
-                                                    <ul style="list-style: square">
-                                                        <li>Maps : de_dust2, de_nuke, de_inferno, de_train
-                                                        </li><li>First of all there will be a knife round to decide the first map. After that the opposing team will select the second map.
-                                                        </li></ul>
-                                                    <br/><br/>
-                                                    DOTA 2: 
-                                                    <ul style="list-style: square">
-                                                        <li>Format : Winners-Losers Bracket
-                                                        </li><li>Game Mode : Captian's Mode (5 v 5)
-                                                        </li><li>Game will start with a coin toss. The team which wins the toss will choose only one of the two:
-
+                                                    </div><div class="viewmore">
+                                                        <h1><i class="fa fa-close"></i></h1>
+                                                        <div style="display: inline">
+                                                            <br/>
+                                                            <br/>Date: TBD
+                                                            <br/>Time: TBD
+                                                            <br/>Venue: Lab Building (Online Event)
+                                                            <br/>Event Duration: 3hours
+                                                            <br/>
+                                                            <br/>Event Structure
+                                                            <br/>
+                                                            <br/>There will be only one round comprising of five to six problem statements.
+                                                            <br/>
+                                                            <br/>Rules and Regulations:
                                                             <ul style="list-style: square">
-                                                                <li>Choose Radiant/Dire side of the map to start
-                                                                </li><li>First pick
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                    </ul>
-                                                    <br/>
-                                                    <br/>
-                                                    Rules:
-                                                    <ul style="list-style: square">
+                                                                <li> Contest is open for all the participants of iFest. 
+                                                                </li><li>    The contest is for individuals. No teams are allowed.
+                                                                </li><li>    Each program will be tested based on test cases provided by us. However output and input should be exactly as specified in the samples provided.
+                                                                </li><li>    Any kind of plagiarism will lead to disqualification. 
+                                                                </li></ul>
 
-                                                        <li>Only college students can participate in this event. Each team member must present their student ID card at the time of registration.
-                                                        </li><li>One player will be allowed to play from only one team. 
-                                                        </li><li>If all the members of a team are not present at the time of their match then that team will be disqualified. 
-                                                        </li><li>Teams can bring one extra player for substitution, but substitution can only be made before the game starts. During the game, player substitution and exchange of seats will not be allowed. 
-                                                        </li><li>If a team is knocked out in hostel rounds then they can re-register for lab rounds but only those teams who were part of the hostel rounds will be allowed to re-register.
-                                                        </li><li>Pause/Resume Abuse: Pausing without any valid reason is disallowed. Resuming the game without the other team confirming that they are ready is not allowed either. If someone pauses the game without a valid reason, they will receive a warning.
-                                                        </li><li>In-case any player is disconnected, the game will be paused until that player reconnects.
-                                                        </li><li>In Dota, in case of server crash, new match will start with the same draft.
-                                                        </li><li>Any form of cheating or exploitation of bugs is not allowed. The team using any cheats/bugs will be disqualified immediately. 
-                                                        </li><li>In case of any discrepancies the decision of the coordinators will be final and binding.
-                                                        </li>
-                                                    </ul>
-                                                    <br/>
-                                                    <br/>Contact Details:
-                                                    <br/>Siddharth Dalmia (Dota) : +91-8866195514
-                                                    <br/>Shri Ram Hansda (CS) :  +91-7600640861
-
-
-                                                    <br/>
-
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="fun item-p" style="display: inline-block; opacity: 1;">
-                                            <a  href=""> <span class="figcap"></span>
-                                                <h2 class="title-event" style="border-color:#EA4335;">Techo Café </h2>
-                                                <hr/>
-                                                <h2><i class="fa fa-tags"></i>Fun Event</h2>
-                                            </a>
-                                            <div class="full og-expander">
-                                                <div class="og-expander-inner">
-                                                    <span class="og-close"></span>
-                                                    <div class='container'>
-                                                        <div class="span4  event-details">
-                                                            <p>
-                                                            <u><b>Event Details:</b> </u><br/>
-                                                            <br/><i class='fa fa-bookmark-o'></i> Techo Café 
-                                                            <br/><i class='fa fa-map-marker'></i> Venue: TBD
-                                                            <br/><i class='fa fa-calendar'></i> Time: 
-                                                            <br/><br/></p>
-                                                            <a href='#register' class="register"> Register </a>
-                                                            
+                                                            <br/>
+                                                            <br/>Judging Criteria:
+                                                            <ul style="list-style: square">
+                                                                <li> Different problems have different points based on their relative difficulty level.
+                                                                </li><li> Users are ranked according to the most problems solved. Ties will be broken by the total time for each user in ascending order of time.
+                                                                </li><li> The decision of the organizers in declaring the results will be final. No queries in this regard will be entertained.
+                                                                </li></ul>
+                                                            <br/>
+                                                            <br/>Contact Details:
+                                                            <br/>Utsav Vyas : +91-9510872145
+                                                            <br/>Parth Panchal : +91-9712916367
+                                                            <br/>
                                                         </div>
+                                                    </div>
+                                                </li>
+                                                <li class="fun item-p" style="display: inline-block; opacity: 1;">
+                                                    <a  href=""> <span class="figcap"></span>
+                                                        <h2 class="title-event" style="border-color:#4285F4;">i.Decipher</h2>
+                                                        <hr/>
+                                                        <h2><i class="fa fa-tags"></i>Fun Event</h2>
+                                                    </a>
+                                                    <div class="full og-expander">
+                                                        <div class="og-expander-inner">
+                                                            <span class="og-close"></span>
+                                                            <div class='container'>
+                                                                <div class="span4  event-details">
+                                                                    <p>
+                                                                    <u><b>Event Details:</b> </u><br/>
+                                                                    <br/><i class='fa fa-bookmark-o'></i> i.Decipher
+                                                                    <br/><i class='fa fa-map-marker'></i> Venue: TBD
+                                                                    <br/><i class='fa fa-calendar'></i> Time: 
+                                                                    <br/><br/></p>
+                                                                    <a href='#register' class="register"> Register </a>
+                                                                    <a class="viewmorebox">View More Details</a>
+                                                                </div>
 
-                                                        <div class="og-details span8">
-                                                            <h3>Techo Café </h3>
-                                                            <div class="og-tags">
-                                                                <span><p>Category: <i class="fa fa-tag"></i> Fun</p></span>
+                                                                <div class="og-details span8">
+                                                                    <h3>i.Decipher</h3>
+                                                                    <div class="og-tags">
+                                                                        <span><p>Category: <i class="fa fa-tag"></i> Fun</p></span>
+                                                                    </div>
+                                                                    <div class="">
+                                                                        <p>
+                                                                            If visual clues and neuron twisting questions lead to a sudden surge of impulses in your cerebral cortex, then you are at the right place. Do your best to find the elusive link and fill in the tantalizing blanks. Visual questions are to be decoded and connected to move towards the next sequence.
+
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
                                                             </div>
-                                                            <div class="">
-                                                                <p>
+                                                        </div>
+                                                    </div><div class="viewmore">
+                                                        <h1><i class="fa fa-close"></i></h1>
+                                                        <div style="display: inline">
+                                                            <br/>
 
-                                                                </p>
+                                                            <br/>       Are you creative and can connect your thoughts speedily and efficiently?
+                                                            <br/>Here's how to ignite your spark!
+                                                            <br/>
+                                                            <br/>Date: TBD
+                                                            <br/>Time: TBD
+                                                            <br/>Venue: Online Event
+                                                            <br/>Event Duration: TBD
+                                                            <br/><br/>
+
+                                                            Structure:
+                                                            <ul style="list-style: square">
+                                                                <li>An online event. 
+                                                                </li><li>Max. team size of 2 per team.
+                                                                </li><li>There will be questions in form of the images, which you will have to decode what it says or represents. To do this you collectively need to apply your general knowledge and skills of “connected thinking”.
+                                                                </li><li>For example, if Kung Fu Panda, Happy Feet and a Humming Bird is shown in the question, the answer is Google Search Algorithms. Hints may also be provided for some questions as per public demand.
+                                                                </li><li>You need to acknowledge and retrieve your great knowledge of google search and google image search.
+                                                                </li><li>Basic general knowledge.
+                                                                </li></ul>
+                                                            <br/>
+                                                            <br/>
+                                                            <br/>“Google knows everything but do you have the art to google it?”
+                                                            <br/>
+                                                            <br/>Contact Details:
+                                                            <br/>Dhaval Panjwani : +91-9408728111
+                                                            <br/>Saurav Pratihar : +91-9033399314
+
+
+                                                            <br/>
+
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li class="fun item-p" style="display: inline-block; opacity: 1;">
+                                                    <a  href=""> <span class="figcap"></span>
+                                                        <h2 class="title-event" style="border-color:#FBBD06;">i.Capture and i.Design</h2>
+                                                        <hr/>
+                                                        <h2><i class="fa fa-tags"></i>Fun Event</h2>
+                                                    </a>
+                                                    <div class="full og-expander">
+                                                        <div class="og-expander-inner">
+                                                            <span class="og-close"></span>
+                                                            <div class='container'>
+                                                                <div class="span4  event-details">
+                                                                    <p>
+                                                                    <u><b>Event Details:</b> </u><br/>
+                                                                    <br/><i class='fa fa-bookmark-o'></i> i.Capture and i.Design
+                                                                    <br/><i class='fa fa-map-marker'></i> Venue: TBD
+                                                                    <br/><i class='fa fa-calendar'></i> Time: 
+                                                                    <br/><br/></p>
+                                                                    <a href='#register' class="register"> Register </a>
+                                                                    <a class="viewmorebox">View More Details</a>
+                                                                </div>
+
+                                                                <div class="og-details span8">
+                                                                    <h3>i.Capture and i.Design</h3>
+                                                                    <div class="og-tags">
+                                                                        <span><p>Category: <i class="fa fa-tag"></i> Fun</p></span>
+                                                                    </div>
+                                                                    <div class="">
+                                                                        <p>
+                                                                            Always looking to capture moments and make beauty last forever? Are you an amateur photographer or a photography enthusiast? Do you understand the craft of taking pictures, documenting a story, conceptualizing an idea and capturing emotions? If so, then this is the competition for you!
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><div class="viewmore">
+                                                        <h1><i class="fa fa-close"></i></h1>
+                                                        <div style="display: inline">
+                                                            <br/>
+                                                            <br/>Contact Details : 
+                                                            <br/>Pragnesh Patel : +91-8460073837
+                                                            <br/>
+
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                
+                                                <li class="fun item-p" style="display: inline-block; opacity: 1;">
+                                                    <a  href=""> <span class="figcap"></span>
+                                                        <h2 class="title-event" style="border-color:#EA4335;">Techo Café </h2>
+                                                        <hr/>
+                                                        <h2><i class="fa fa-tags"></i>Fun Event</h2>
+                                                    </a>
+                                                    <div class="full og-expander">
+                                                        <div class="og-expander-inner">
+                                                            <span class="og-close"></span>
+                                                            <div class='container'>
+                                                                <div class="span4  event-details">
+                                                                    <p>
+                                                                    <u><b>Event Details:</b> </u><br/>
+                                                                    <br/><i class='fa fa-bookmark-o'></i> Techo Café 
+                                                                    <br/><i class='fa fa-map-marker'></i> Venue: TBD
+                                                                    <br/><i class='fa fa-calendar'></i> Time: 
+                                                                    <br/><br/></p>
+                                                                    <a href='#register' class="register"> Register </a>
+
+                                                                </div>
+
+                                                                <div class="og-details span8">
+                                                                    <h3>Techo Café </h3>
+                                                                    <div class="og-tags">
+                                                                        <span><p>Category: <i class="fa fa-tag"></i> Fun</p></span>
+                                                                    </div>
+                                                                    <div class="">
+                                                                        <p>
+
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
+                                                </li>
+
+                                                </ul>
+                                                <div class="clearfix"></div>
                                                 </div>
-                                            </div>
-                                </li>
-
-                                </ul>
-                                <div class="clearfix"></div>
-                                </div>
-                                </section>
-                                <!--Footer-->
-                                <footer>
-                                    <div class="container">
-                                        <p>© DA-IICT i.Fest. 2015 - Website developed by Daiictians!</p>
-                                    </div>
-                                </footer>
-                                </div>
-                                </article>
-                                <article class=" pt-page pt-page-4" id="sponsors"
-                                         originalclasslist="pt-page pt-page-4 ">
-                                    <div class="outer-wrapper" style="background-color:  rgba(255,255,255,0.95);">
-                                        <!--Header-->
-                                        <header class="row-fluid">
-                                            <div class="container">
-                                                <div class="span12 relative">
-                                                    <div class="page-navi">
-                                                        <a class="home-page page-transition"
-                                                           href="#home"
-                                                           onclick="gotoPage(0, 6)" title="Go Home">
-                                                            <i class="fa fa fa-home nav-icon"></i>
-                                                        </a> <a page="2"
-                                                                class="prev-page page-transition"
-                                                                href=""
-                                                                onclick="gotoPage(2, 13)" title="Go To Previous Page">
-                                                            <i class="fa fa fa-arrow-circle-o-left nav-icon"></i>
-                                                        </a> 
-
-                                                        <a
-                                                            page="3" class="next-page page-transition"
-                                                            href=""
-                                                            onclick="gotoPage(3, 10)" title="Go To Next Page">
-                                                            <i class="fa fa fa-arrow-circle-o-right nav-icon"></i>
-                                                        </a>
+                                                </section>
+                                                <!--Footer-->
+                                                <footer>
+                                                    <div class="container">
+                                                        <p>© DA-IICT i.Fest. 2015 - Website developed by Daiictians!</p>
                                                     </div>
-                                                    <h1 class="title-center">Sponsors</h1>
-
+                                                </footer>
                                                 </div>
+                                                </article>
+                                                <article class=" pt-page pt-page-4" id="sponsors"
+                                                         originalclasslist="pt-page pt-page-4 ">
+                                                    <div class="outer-wrapper" style="background-color:  rgba(255,255,255,0.95);">
+                                                        <!--Header-->
+                                                        <header class="row-fluid">
+                                                            <div class='social'>
+                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
+                                                            </div>
+                                                            <div class="container">
+                                                                <div class="span12 relative">
+                                                                    <div class="page-navi">
+                                                                        <a class="home-page page-transition"
+                                                                           href="#home"
+                                                                           onclick="gotoPage(0, 6)" title="Go Home">
+                                                                            <i class="fa fa fa-home nav-icon"></i>
+                                                                        </a> <a page="2"
+                                                                                class="prev-page page-transition"
+                                                                                href=""
+                                                                                onclick="gotoPage(2, 13)" title="Go To Previous Page">
+                                                                            <i class="fa fa fa-arrow-circle-o-left nav-icon"></i>
+                                                                        </a> 
 
-                                            </div>
-                                        </header>
-                                        <hr/>
-                                        <!--Content-->
-                                        <section class="row-fluid">
-                                            <div class="container ">
-                                                <!--                            <div class="span8 center"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3146.251765006306!2d72.62842200000024!3d23.188463709504347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1442451836829" width="600" height="450" frameborder="0" style="border:0" all-powfullscreen></iframe>
+                                                                        <a
+                                                                            page="3" class="next-page page-transition"
+                                                                            href=""
+                                                                            onclick="gotoPage(3, 10)" title="Go To Next Page">
+                                                                            <i class="fa fa fa-arrow-circle-o-right nav-icon"></i>
+                                                                        </a>
+                                                                    </div>
+                                                                    <h1 class="title-center">Sponsors</h1>
+
+                                                                </div>
+
+                                                            </div>
+                                                        </header>
+                                                        <hr/>
+                                                        <!--Content-->
+                                                        <section class="row-fluid">
+                                                            <div class="container ">
+                                                                <!--                            <div class="span8 center"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3146.251765006306!2d72.62842200000024!3d23.188463709504347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1442451836829" width="600" height="450" frameborder="0" style="border:0" all-powfullscreen></iframe>
+                                                                                            </div>
+                                                                                            <div class="span4 center">
+                                                                                                <br/>
+                                                                                                <div>
+                                                                                                    <h2><i class='fa fa-map-marker'></i> Address</h2>
+                                                                                                    <p>Dhirubhai Ambani Institute of Information and Communication Technology,
+                                                                                                        <br/>Near GH-0,<br/> Gandhinagar 382007, Gujarat(India).</p>
+                                                                                                </div>
+                                                                                                <br/><br/>
+                                                                                                <div>
+                                                                                                    <h2><i class='fa fa-phone'></i> Phone</h2>
+                                                                                                    <p>Sahil Jain : +91 8128 552 048</p>
+                                                                                                    <p>Nidhi Vyas : +91 8758 834 909</p>
+                                                                                                </div><br/><br/>
+                                                                                                <div>
+                                                                                                    <h2><i class='fa fa-edit'></i> E-mail</h2>
+                                                                                                    <p>ifest2k15.da@gmail.com</p>
+                                                                                                </div>
+                                                                                            </div>-->
+
+                                                                <h3 class="fancy animated pulse infinite"><i class="fa fa-smile-o"></i> Our Past Sponsors <i class="fa fa-smile-o"></i></h3>
+                                                                <hr/>
+                                                                <div class="sponsor-grid container">
+                                                                    <div class="row-fluid">
+                                                                        <span class="span3">
+                                                                            <img src="img/sponsors/past/middletown.png"/>
+                                                                        </span><span class="span3">
+                                                                            <img src="img/sponsors/past/ongc.jpg"/>
+                                                                        </span><span class="span3">
+                                                                            <img src="img/sponsors/past/gateforum.png"/>
+                                                                        </span><span class="span3">
+                                                                            <img src="img/sponsors/past/icreate.jpeg"/>
+                                                                        </span>
+                                                                    </div><div class="row-fluid">
+                                                                        <span class="span3">
+                                                                            <img src="img/sponsors/past/ieee.png"/>
+                                                                        </span><span class="span3">
+                                                                            <img src="img/sponsors/past/dst.png"/>
+                                                                        </span><span class="span3">
+                                                                            <img src="img/sponsors/past/ebay.png"/>
+                                                                        </span>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+
+                                                        </section>
+                                                        <!--Footer-->
+                                                        <footer>
+                                                            <div class="container">
+                                                                <p>© DA-IICT i.Fest. 2015 - Website developed by Daiictians!</p>
+                                                            </div>
+                                                        </footer>
+                                                    </div>
+                                                </article>
+                                                <article class="blog-page-list pt-page pt-page-5" id="schedule" originalclasslist="pt-page pt-page-5 blog-page-list">
+                                                    <div class="outer-wrapper" style="background-color:  rgba(255,255,255,0.95);">
+                                                        <!--Header-->
+                                                        <header class="row-fluid">
+                                                            <div class='social'>
+                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
+                                                            </div>
+                                                            <div class="viewmore" id="map">
+                                                                <h1><i class="fa fa-close"></i></h1>
+                                                                <div style="display: inline" >
+
+                                                                    <img src="img/map.png"/>
+                                                                </div>
+                                                            </div>
+                                                            <script>
+                                                                jQuery(document).ready(function () {
+
+                                                                    jQuery(".edu-date").click(function () {
+                                                                        jQuery("#map").css("visibility", "visible");
+                                                                    });
+
+                                                                    jQuery("#map .fa-close").click(function () {
+                                                                        jQuery("#map").css("visibility", "hidden");
+                                                                    });
+
+                                                                });</script>
+
+
+                                                            <div class="container">
+                                                                <div class="span12 relative">
+                                                                    <div class="page-navi">
+                                                                        <a class="home-page page-transition"
+                                                                           href="#home"
+                                                                           onclick="gotoPage(0, 6)" title="Go Home">
+                                                                            <i class="fa fa fa-home nav-icon"></i>
+                                                                        </a> <a page="7"
+                                                                                class="prev-page page-transition"
+                                                                                href=""
+                                                                                onclick="gotoPage(7, 23)" title="Go To Previous Page">
+                                                                            <i class="fa fa fa-arrow-circle-o-left nav-icon"></i>
+                                                                        </a> <a
+                                                                            page="6" class="next-page page-transition"
+                                                                            href=""
+                                                                            onclick="gotoPage(6, 21)" title="Go To Next Page">
+                                                                            <i class="fa fa fa-arrow-circle-o-right nav-icon"></i>
+                                                                        </a>
+                                                                    </div>
+                                                                    <h1 class="title-center">Schedule</h1>
+
+                                                                </div>
+
+                                                            </div>
+                                                        </header>
+                                                        <hr/>
+                                                        <!--Content-->
+                                                        <section class="row-fluid" style="min-height: 334px;">
+                                                            <div class="container" style="width: 90%" >
+                                                                <div id="education">
+                                                                    <div class="content">
+                                                                        <h1 class="title-center register" style="background-color: #FEFEFE; z-index: 10">Prefest</h1>
+                                                                        <div class="wrapper-block">
+                                                                            <div class="edu-block left">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i> Arduino Mela &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                                                                </h4>
+                                                                                <p>
+
+                                                                                    <i class='fa fa-map-marker'></i> Venue: LAB <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 14:00 - 17:00<br/>
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
                                                                             </div>
-                                                                            <div class="span4 center">
-                                                                                <br/>
-                                                                                <div>
-                                                                                    <h2><i class='fa fa-map-marker'></i> Address</h2>
-                                                                                    <p>Dhirubhai Ambani Institute of Information and Communication Technology,
-                                                                                        <br/>Near GH-0,<br/> Gandhinagar 382007, Gujarat(India).</p>
+
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block right">
+                                                                            <div class="edu-block right">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Decipher &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: TBD<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
                                                                                 </div>
-                                                                                <br/><br/>
-                                                                                <div>
-                                                                                    <h2><i class='fa fa-phone'></i> Phone</h2>
-                                                                                    <p>Sahil Jain : +91 8128 552 048</p>
-                                                                                    <p>Nidhi Vyas : +91 8758 834 909</p>
-                                                                                </div><br/><br/>
-                                                                                <div>
-                                                                                    <h2><i class='fa fa-edit'></i> E-mail</h2>
-                                                                                    <p>ifest2k15.da@gmail.com</p>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <h1 class="title-center register" style="background-color: #FEFEFE; z-index: 10">Day 1, 23 Oct.</h1>
+                                                                        <div class="wrapper-block right">
+                                                                            <div class="edu-block right">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> Blind C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 14:30 - 17:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
                                                                                 </div>
-                                                                            </div>-->
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block left">
+                                                                            <div class="edu-block left">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Papyrus &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
 
-                                                <h3 class="fancy animated pulse infinite"><i class="fa fa-smile-o"></i> Our Past Sponsors <i class="fa fa-smile-o"></i></h3>
-                                                <hr/>
-                                                <div class="sponsor-grid container">
-                                                    <div class="row-fluid">
-                                                        <span class="span3">
-                                                            <img src="img/sponsors/past/middletown.png"/>
-                                                        </span><span class="span3">
-                                                            <img src="img/sponsors/past/ongc.jpg"/>
-                                                        </span><span class="span3">
-                                                            <img src="img/sponsors/past/gateforum.png"/>
-                                                        </span><span class="span3">
-                                                            <img src="img/sponsors/past/icreate.jpeg"/>
-                                                        </span>
-                                                    </div><div class="row-fluid">
-                                                        <span class="span3">
-                                                            <img src="img/sponsors/past/ieee.png"/>
-                                                        </span><span class="span3">
-                                                            <img src="img/sponsors/past/dst.png"/>
-                                                        </span><span class="span3">
-                                                            <img src="img/sponsors/past/ebay.png"/>
-                                                        </span>
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 14:30 - 18:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block right">
+                                                                            <div class="edu-block right">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> Inaugural  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 18:00 - 20:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block left">
+                                                                            <div class="edu-block left">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Ganith &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 20:30 - 22:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <h1 class="title-center register" style="background-color: #FEFEFE; z-index: 10">Day 2, 24 Oct.</h1>
+                                                                        <div class="wrapper-block right">
+                                                                            <div class="edu-block right">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Bot - Eliminations &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 9:00 - 12:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block left">
+                                                                            <div class="edu-block left">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.App &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 10:00 - 12:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block right">
+                                                                            <div class="edu-block right">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Biz &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 11:00 - 13:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block left">
+                                                                            <div class="edu-block left">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Database - Eliminations &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 14:30 - 16:30<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block right">
+                                                                            <div class="edu-block right">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Electro - Eliminations &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 14:30 - 16:30<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block left">
+                                                                            <div class="edu-block left">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> Treasure Hunt &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 17:00 - 19:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block right">
+                                                                            <div class="edu-block right">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> i.Maze</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> Blind C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 19:30 - 20:30<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block left">
+                                                                            <div class="edu-block left">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Cube &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 20:30 - 22:30<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block right">
+                                                                            <div class="edu-block right">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Intelligence &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 20:30 - 22:30<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <h1 class="title-center register" style="background-color: #FEFEFE; z-index: 10">Day 3, 25 Oct.</h1>
+                                                                        <div class="wrapper-block left">
+                                                                            <div class="edu-block left">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Bot - Finals &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 9:00 - 12:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block right">
+                                                                            <div class="edu-block right">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Database - Finals &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 11:00 - 13:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block left">
+                                                                            <div class="edu-block left">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Electro - Finals &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 12:00 - 13:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block right">
+                                                                            <div class="edu-block right">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Crypt &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 15:00 - 16:30<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block left">
+                                                                            <div class="edu-block left">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> i.Rubble &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 16:30 - 19:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block right">
+                                                                            <div class="edu-block right">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> Closing Ceremony &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 19:00 - 21:00<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="wrapper-block left">
+                                                                            <div class="edu-block left">
+                                                                                <span class="edu-date">
+                                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
+                                                                                </span>
+                                                                                <h4>
+                                                                                    <i class='fa fa-bookmark-o'></i><b> DJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
+                                                                                </h4>
+
+                                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
+                                                                                    <i class='fa fa-calendar'></i> Time: 9 onwards<br/>
+
+                                                                                </p>
+                                                                                <a class="viewmorebox">View More</a>
+                                                                                <div class="viewmore">
+                                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span class="block-ico">
+                                                                                <i class="fa fa-cubes">
+                                                                                </i>
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </section>
+                                                        <!--Footer-->
+                                                        <footer>
+                                                            <div class="container">
+                                                                <p>© DA-IICT i.Fest. 2015 - Website developed by Daiictians!</p>
+                                                            </div>
+                                                        </footer>
                                                     </div>
+                                                </article>
+                                                <article class=" pt-page pt-page-6" id="register"
+                                                         originalclasslist="pt-page pt-page-6 ">
+                                                    <div class="outer-wrapper" style="background-color:  rgba(255,255,255,0.95);">
+                                                        <!--Header-->
+                                                        <header class="row-fluid">
+                                                            <div class='social'>
+                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
+                                                            </div>
+                                                            <div class="container">
+                                                                <div class="span12 relative">
 
-                                                </div>
-                                            </div>
+                                                                    <div class="page-navi">
 
-                                        </section>
-                                        <!--Footer-->
-                                        <footer>
-                                            <div class="container">
-                                                <p>© DA-IICT i.Fest. 2015 - Website developed by Daiictians!</p>
-                                            </div>
-                                        </footer>
-                                    </div>
-                                </article>
-                                <article class="blog-page-list pt-page pt-page-5" id="schedule" originalclasslist="pt-page pt-page-5 blog-page-list">
-                                    <div class="outer-wrapper" style="background-color:  rgba(255,255,255,0.95);">
-                                        <!--Header-->
-                                        <header class="row-fluid">
-                                            <div class="viewmore" id="map">
-                                                <h1><i class="fa fa-close"></i></h1>
-                                                <div style="display: inline" >
+                                                                        <a class="home-page page-transition"
+                                                                           href="#home"
+                                                                           onclick="gotoPage(0, 6)" title="Go Home">
+                                                                            <i class="fa fa fa-home nav-icon"></i>
+                                                                        </a> <a page="5"
+                                                                                class="prev-page page-transition"
+                                                                                href=""
+                                                                                onclick="gotoPage(5, 27)" title="Go To Previous Page">
+                                                                            <i class="fa fa fa-arrow-circle-o-left nav-icon"></i>
+                                                                        </a> <a
+                                                                            page="1" class="next-page page-transition"
+                                                                            href=""
+                                                                            onclick="gotoPage(1, 8)" title="Go To Next Page">
+                                                                            <i class="fa fa fa-arrow-circle-o-right nav-icon"></i>
+                                                                        </a>
 
-                                                    <img src="img/map.png"/>
-                                                </div>
-                                            </div>
-                                            <script>
-                                                jQuery(document).ready(function () {
+                                                                    </div>
+                                                                    <h1 class="title-center">Register</h1>
 
-                                                    jQuery(".edu-date").click(function () {
-                                                        jQuery("#map").css("visibility","visible");
-                                                    });
+                                                                </div>
 
-                                                    jQuery("#map .fa-close").click(function () {
-                                                        jQuery("#map").css("visibility","hidden");
-                                                    });
+                                                            </div>
+                                                        </header>
+                                                        <hr/>
+                                                        <!--Content-->
+                                                        <section class="row-fluid" style="min-height: 334px;width:95%; padding:2%;">
+                                                            <div class="container ">
 
-                                                });</script>
+                                                                <div class="form-style-10 span12 successreg">
+                                                                </div>
+                                                                <br>
+                                                                <div class="span4 " style="float: right;"><p class="fee">
+                                                                        The registration fee is <b>Rs. 50</b> for IEEE Members and <b> Rs. 100</b> for all other students.
+                                                                        You can pay the fees at the registration desk on the day of event.
+                                                                        <br/>
+                                                                        <br/><span style='color: red'>Note: Online registration on this website is mandatory. </span>
+                                                                    </p>
+                                                                </div>
+                                                                <div class="form-style-10 span8">
+                                                                    <h1>Register!<span>i.Fest 2015</span></h1>
+                                                                    <form id="Register-form" method="post">
+                                                                        <div class="section"><span>1</span>Basic details</div>
+                                                                        <div class="inner-wrap  ">
+                                                                            <label>
+                                                                                <span style="color: red"> * </span>Your Full Name <br>
+                                                                                <span class="errormsg" id="errFieldName">  </span>
+                                                                                <input type="text" name="fieldName" />
+                                                                            </label>
+                                                                            <br/><label>IEEE Membership Number (For IEEE Members)<br/>
+                                                                                <span class="errormsg" id="errFieldIEEEId">  </span>
+                                                                                <input type="number" name="fieldIEEEId" />
+                                                                            </label>
+                                                                            <br/><label>
+                                                                                <span style="color: red"> * </span>Phone No. <br>
+                                                                                <span class="errormsg" id="errFieldPhone">  </span>
+                                                                                <input type="tel" name="fieldPhone" /></label>
+                                                                            <br/><label>
+                                                                                <span style="color: red"> * </span>Email <br>
+                                                                                <span class="errormsg" id="errFieldEmail">  </span>
+                                                                                <input type="email" name="fieldEmail" />
+                                                                            </label>
+                                                                        </div>
 
+                                                                        <div class="section"><span>2</span>Additional Details</div>
+                                                                        <div class="inner-wrap">
+                                                                            <label>College<br/>
+                                                                                <select name="fieldCollegeChoose" id="fieldCollegeChoose">
+                                                                                    <option value="DAIICT"> DAIICT </option>
+                                                                                    <option value="OTHER" selected> Other </option>
+                                                                                </select> 										<br>
 
-                                            <div class="container">
-                                                <div class="span12 relative">
-                                                    <div class="page-navi">
-                                                        <a class="home-page page-transition"
-                                                           href="#home"
-                                                           onclick="gotoPage(0, 6)" title="Go Home">
-                                                            <i class="fa fa fa-home nav-icon"></i>
-                                                        </a> <a page="7"
-                                                                class="prev-page page-transition"
-                                                                href=""
-                                                                onclick="gotoPage(7, 23)" title="Go To Previous Page">
-                                                            <i class="fa fa fa-arrow-circle-o-left nav-icon"></i>
-                                                        </a> <a
-                                                            page="6" class="next-page page-transition"
-                                                            href=""
-                                                            onclick="gotoPage(6, 21)" title="Go To Next Page">
-                                                            <i class="fa fa fa-arrow-circle-o-right nav-icon"></i>
-                                                        </a>
+                                                                                <label class="col">College Name<br/>
+                                                                                    <span class="errormsg" id="errFieldCollege"></span>
+                                                                                    <input type="text" id="fieldCollege" placeholder="" name="fieldCollege"/>
+                                                                                </label>
+                                                                                <label class="cold">DA-IICT ID (For DA-IICT students)<br/>
+                                                                                    <span class="errormsg" id="errFieldId">  </span>
+                                                                                    <input type="number" name="fieldId" />
+                                                                                </label>
+
+                                                                            </label>
+                                                                            <br/><div  class="col"><label>Gender<br/>
+                                                                                    <span class="errormsg" id="errFieldGender"></span>
+                                                                                </label>
+                                                                                <div  class="radio">
+                                                                                    <input type="radio" name="fieldGender" Value="Male"/> Male<br/><br/>
+                                                                                    <input type="radio" name="fieldGender" Value="Female"/> Female
+                                                                                </div>
+                                                                            </div>
+                                                                            <br/><label class="col">City<br/>
+                                                                                <span class="errormsg" id="errFieldCity">  </span>
+                                                                                <input type="text" name="fieldCity"/>
+                                                                            </label>
+                                                                            <br/><label class="col">Do you need accommodation?<br/>
+                                                                                <select name="fieldAccommodation" id="fieldAccommodation">
+                                                                                    <option value="yes">Yes</option>
+                                                                                    <option selected="selected" value="no">No</option>
+                                                                                </select>
+                                                                            </label>
+                                                                        </div>
+
+                                                                        <div class="section"><span>3</span>Register yourself for:</div>
+
+                                                                        <div class="inner-wrap">
+                                                                            <span style="color: red"> * </span> <span id="errEvent"> Select at least one event</span><br/>
+                                                                            <label> <span class="errormsg" id="errFieldEvenet">  </span> </label>
+                                                                            <label>Technical Events</label>
+                                                                            <div  class="checkbox">
+                                                                                <input type="checkbox" name="iarduino"> Arduino Mela<br/><br/>
+                                                                                <input type="checkbox" name="ibot"> i.Bot<br/><br/>
+                                                                                <input type="checkbox" name="icode"> i.Code<br/><br/>
+                                                                                <input type="checkbox" name="ipapyrus"> i.Papyrus<br/><br/>
+                                                                                <input type="checkbox" name="iapp"> i.App<br/><br/>
+                                                                                <input type="checkbox" name="idatabase"> i.Database<br/><br/>
+                                                                                <input type="checkbox" name="ielectro"> i.Electro<br/><br/>
+                                                                                <input type="checkbox" name="blindc"> Blind C<br/><br/>
+                                                                                <input type="checkbox" name="ibiz"> i.Biz<br/><br/>
+                                                                                <input type="checkbox" name="icrypt"> i.Crypt<br/><br/>
+                                                                                <input type="checkbox" name="iintelligence"> i.Intelligence<br/><br/>
+                                                                                <input type="checkbox" name="iganith"> i.Ganith<br/><br/>
+                                                                            </div>
+                                                                            <br/><br/>
+                                                                            <label>Fun Events</label>
+                                                                            <div  class="checkbox">
+                                                                                <input type="checkbox" name="treasurehunt"> Treasure Hunt<br/><br/>
+                                                                                <input type="checkbox" name="imaze"> i.Maze<br/><br/>
+                                                                                <input type="checkbox" name="icube"> i.Cube<br/><br/>
+                                                                                <input type="checkbox" name="iquiz"> i.Quiz<br/><br/>
+                                                                                <input type="checkbox" name="technocafe"> Techno-Cafe<br/><br/>
+                                                                                <input type="checkbox" name="iclash"> i.Clash<br/><br/>
+                                                                                <input type="checkbox" name="idecipher"> i.Decipher<br/><br/>
+                                                                                <input type="checkbox" name="idesign"> i.Capture and i.Design<br/><br/>
+                                                                                <input type="checkbox" name="irubble"> i.Rubble<br/><br/>
+                                                                            </div>
+                                                                            </label>    
+                                                                        </div>
+                                                                        <div class="button-section">
+                                                                            <input type="button" id="Register" name="Register" Value="Register" style="margin: 0 auto;
+                                                                                   display: table;"/>
+                                                                        </div>
+                                                                    </form>
+                                                                </div>
+                                                            </div>
+                                                        </section>
+                                                        <!--Footer-->
+                                                        <footer>
+                                                            <div class="container">
+                                                                <p>© DA-IICT i.Fest. 2015</p>
+                                                            </div>
+                                                        </footer>
                                                     </div>
-                                                    <h1 class="title-center">Schedule</h1>
+                                                </article>
+                                                <article class=" pt-page pt-page-7" id="gallery"
+                                                         originalclasslist="pt-page pt-page-7">
 
-                                                </div>
+                                                    <div class="outer-wrapper" style="background-color: rgba(255,255,255,0.95);">
+                                                        <!--Header-->
+                                                        <header class="row-fluid">
+                                                            <div class='social'>
+                                                                <a href='https://www.facebook.com/ifest15'><i class='fa fa-facebook-official'></i></a>
+                                                                <a onmouseover="jQuery(this).children('.social-tooltip').css('visibility','visible');" onmouseout="jQuery(this).children('.social-tooltip').css('visibility','hidden');"><i class='fa fa-envelope-o'></i><span class='social-tooltip'>ifest2k15.da@gmail.com</span></a>
+                                                            </div>
+                                                            <div class="container">
+                                                                <div class="span12 relative">
+                                                                    <div class="page-navi">
+                                                                        <a class="home-page page-transition" href="#home"
+                                                                           onclick="gotoPage(0, 6)" title="Go Home">
+                                                                            <i class="fa fa fa-home nav-icon"></i>
+                                                                        </a> 
+                                                                        <a page="3" class="prev-page page-transition" href="" 
+                                                                           onclick="gotoPage(3, 17)" title="Go To Previous Page">
+                                                                            <i class="fa fa fa-arrow-circle-o-left nav-icon">
 
-                                            </div>
-                                        </header>
-                                        <hr/>
-                                        <!--Content-->
-                                        <section class="row-fluid" style="min-height: 334px;">
-                                            <div class="container" style="width: 90%" >
-                                                <div id="education">
-                                                    <div class="content">
-                                                        <h1 class="title-center register" style="background-color: #FEFEFE; z-index: 10">Prefest</h1>
-                                                        <div class="wrapper-block">
-                                                            <div class="edu-block left">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i> Arduino Mela &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                                                                </h4>
-                                                                <p>
-
-                                                                    <i class='fa fa-map-marker'></i> Venue: LAB <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 14:00 - 17:00<br/>
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                            </i></a> 
+                                                                        <a page="5" class="next-page page-transition"
+                                                                           href=""
+                                                                           onclick="gotoPage(5, 19)" title="Go To Next Page">
+                                                                            <i class="fa fa fa-arrow-circle-o-right nav-icon"></i>
+                                                                        </a>
+                                                                    </div>
+                                                                    <h1 class="title-center" >i.Fest Diaries</h1>
                                                                 </div>
                                                             </div>
+                                                        </header>
+                                                        <hr/>
+                                                        <!--Content-->
+                                                        <section class="row-fluid">
+                                                            <div class="container ">
+                                                                <div class="container-gallery"  >
+                                                                    <div id="gr-gallery" class="gr-gallery">
+                                                                        <div class="gr-main">
+                                                                            <figure>
+                                                                                <div>
+                                                                                    <img src="img/gallery/1.jpg" alt="img01"/>
+                                                                                </div>
+                                                                                <!--		<figcaption> are optional, if we want to show some caption below image then use figcaption
+                                                                                                </figcaption> -->
+                                                                            </figure>
+                                                                            <figure>
+                                                                                <div>
+                                                                                    <img src="img/gallery/2.jpg" alt="img02"  />
+                                                                                </div>
+                                                                            </figure>
+                                                                            <figure>
+                                                                                <div>
+                                                                                    <img src="img/gallery/3.jpg" alt="img03"  />
+                                                                                </div>
+                                                                            </figure>
+                                                                            <figure>
+                                                                                <div>
+                                                                                    <img src="img/gallery/4.jpg" alt="img04"  />
+                                                                                </div>
+                                                                            </figure>
+                                                                            <figure>
+                                                                                <div>
+                                                                                    <img src="img/gallery/5.jpg" alt="img01"  />
+                                                                                </div>
+                                                                            </figure>
+                                                                            <figure>
+                                                                                <div>
+                                                                                    <img src="img/gallery/6.jpg" alt="img02"  />
+                                                                                </div>
+                                                                            </figure>
+                                                                            <figure>
+                                                                                <div>
+                                                                                    <img src="img/gallery/7.jpg" alt="img03"  />
+                                                                                </div>
+                                                                            </figure>
+                                                                            <figure>
+                                                                                <div>
+                                                                                    <img src="img/gallery/8.jpg" alt="img08"  />
+                                                                                </div>
+                                                                            </figure>
+                                                                            <figure>
+                                                                                <div>
+                                                                                    <img src="img/gallery/9.jpg" alt="img09"  />
+                                                                                </div>
+                                                                            </figure>
+                                                                            <figure>
+                                                                                <div>
+                                                                                    <img src="img/gallery/10.jpg" alt="img09"   />
+                                                                                </div>
+                                                                            </figure>
 
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block right">
-                                                            <div class="edu-block right">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Decipher &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: TBD<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
+                                                                        </div>
+                                                                    </div>
                                                                 </div>
+                                                            </div> 
+                                                        </section>
+                                                        <!--Footer-->
+                                                        <footer>
+                                                            <div class="container">
+                                                                <p>© DA-IICT i.Fest. 2015 - Website developed by Daiictians!</p>
                                                             </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <h1 class="title-center register" style="background-color: #FEFEFE; z-index: 10">Day 1, 23 Oct.</h1>
-                                                        <div class="wrapper-block right">
-                                                            <div class="edu-block right">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> Blind C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 14:30 - 17:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block left">
-                                                            <div class="edu-block left">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Papyrus &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 14:30 - 18:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block right">
-                                                            <div class="edu-block right">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> Inaugural  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 18:00 - 20:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block left">
-                                                            <div class="edu-block left">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Ganith &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 20:30 - 22:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <h1 class="title-center register" style="background-color: #FEFEFE; z-index: 10">Day 2, 24 Oct.</h1>
-                                                        <div class="wrapper-block right">
-                                                            <div class="edu-block right">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Bot - Eliminations &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 9:00 - 12:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block left">
-                                                            <div class="edu-block left">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.App &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 10:00 - 12:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block right">
-                                                            <div class="edu-block right">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Biz &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 11:00 - 13:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block left">
-                                                            <div class="edu-block left">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Database - Eliminations &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 14:30 - 16:30<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block right">
-                                                            <div class="edu-block right">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Electro - Eliminations &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 14:30 - 16:30<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block left">
-                                                            <div class="edu-block left">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> Treasure Hunt &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 17:00 - 19:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block right">
-                                                            <div class="edu-block right">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> i.Maze</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> Blind C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 19:30 - 20:30<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block left">
-                                                            <div class="edu-block left">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Cube &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 20:30 - 22:30<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block right">
-                                                            <div class="edu-block right">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Intelligence &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 20:30 - 22:30<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <h1 class="title-center register" style="background-color: #FEFEFE; z-index: 10">Day 3, 25 Oct.</h1>
-                                                        <div class="wrapper-block left">
-                                                            <div class="edu-block left">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Bot - Finals &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 9:00 - 12:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block right">
-                                                            <div class="edu-block right">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Database - Finals &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 11:00 - 13:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block left">
-                                                            <div class="edu-block left">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Electro - Finals &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 12:00 - 13:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block right">
-                                                            <div class="edu-block right">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Crypt &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 15:00 - 16:30<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block left">
-                                                            <div class="edu-block left">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> i.Rubble &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 16:30 - 19:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block right">
-                                                            <div class="edu-block right">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> Closing Ceremony &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 19:00 - 21:00<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="wrapper-block left">
-                                                            <div class="edu-block left">
-                                                                <span class="edu-date">
-                                                                    <a><i class='fa fa-map-marker'></i> View on Map</a>
-                                                                </span>
-                                                                <h4>
-                                                                    <i class='fa fa-bookmark-o'></i><b> DJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>
-                                                                </h4>
-
-                                                                <p><i class='fa fa-map-marker'></i> Venue: TBD <br/>
-                                                                    <i class='fa fa-calendar'></i> Time: 9 onwards<br/>
-
-                                                                </p>
-                                                                <a class="viewmorebox">View More</a>
-                                                                <div class="viewmore">
-                                                                    <h1><i class="fa fa-close"></i></h1>
-                                                                </div>
-                                                            </div>
-                                                            <span class="block-ico">
-                                                                <i class="fa fa-cubes">
-                                                                </i>
-                                                            </span>
-                                                        </div>
+                                                        </footer>
                                                     </div>
+                                                </article>
                                                 </div>
-                                            </div>
-                                        </section>
-                                        <!--Footer-->
-                                        <footer>
-                                            <div class="container">
-                                                <p>© DA-IICT i.Fest. 2015 - Website developed by Daiictians!</p>
-                                            </div>
-                                        </footer>
-                                    </div>
-                                </article>
-                                <article class=" pt-page pt-page-6" id="register"
-                                         originalclasslist="pt-page pt-page-6 ">
-                                    <div class="outer-wrapper" style="background-color:  rgba(255,255,255,0.95);">
-                                        <!--Header-->
-                                        <header class="row-fluid">
-                                            <div class="container">
-                                                <div class="span12 relative">
-                                                    <div class="page-navi">
-                                                        <a class="home-page page-transition"
-                                                           href="#home"
-                                                           onclick="gotoPage(0, 6)" title="Go Home">
-                                                            <i class="fa fa fa-home nav-icon"></i>
-                                                        </a> <a page="5"
-                                                                class="prev-page page-transition"
-                                                                href=""
-                                                                onclick="gotoPage(5, 27)" title="Go To Previous Page">
-                                                            <i class="fa fa fa-arrow-circle-o-left nav-icon"></i>
-                                                        </a> <a
-                                                            page="1" class="next-page page-transition"
-                                                            href=""
-                                                            onclick="gotoPage(1, 8)" title="Go To Next Page">
-                                                            <i class="fa fa fa-arrow-circle-o-right nav-icon"></i>
-                                                        </a>
-                                                    </div>
-                                                    <h1 class="title-center">Register</h1>
-
-                                                </div>
-
-                                            </div>
-                                        </header>
-                                        <hr/>
-                                        <!--Content-->
-                                        <section class="row-fluid" style="min-height: 334px;width:95%; padding:2%;">
-                                            <div class="container ">
-
-                                                <div class="form-style-10 span12 successreg">
-                                                </div>
-                                                <br>
-                                                <div class="span4 " style="float: right;"><p class="fee">
-                                                        The registration fee is <b>Rs. 50</b> for IEEE Members and <b> Rs. 100</b> for all other students.
-                                                        You can pay the fees at the registration desk on the day of event.
-                                                        <br/>
-                                                        <br/><span style='color: red'>Note: Online registration on this website is mandatory. </span>
-                                                    </p>
-                                                </div>
-                                                <div class="form-style-10 span8">
-                                                    <h1>Register!<span>i.Fest 2015</span></h1>
-                                                    <form id="Register-form" method="post">
-                                                        <div class="section"><span>1</span>Basic details</div>
-                                                        <div class="inner-wrap  ">
-                                                            <label>
-                                                                <span style="color: red"> * </span>Your Full Name <br>
-                                                                &nbsp; <span class="errormsg" id="errFieldName">  </span>
-                                                                <input type="text" name="fieldName" />
-                                                            </label>
-                                                            <label>IEEE Membership Number (For IEEE Members)<br>
-                                                                &nbsp; <span class="errormsg" id="errFieldIEEEId">  </span>
-                                                                <input type="number" name="fieldIEEEId" />
-                                                            </label>
-                                                            <label>
-                                                                <span style="color: red"> * </span>Phone No. <br>
-                                                                &nbsp; <span class="errormsg" id="errFieldPhone">  </span>
-                                                                <input type="tel" name="fieldPhone" /></label>
-                                                            <label>
-                                                                <span style="color: red"> * </span>Email <br>
-                                                                &nbsp; <span class="errormsg" id="errFieldEmail">  </span>
-                                                                <input type="email" name="fieldEmail" />
-                                                            </label>
-                                                        </div>
-
-                                                        <div class="section"><span>2</span>Additional Details</div>
-                                                        <div class="inner-wrap">
-                                                            <label>College
-                                                                <select name="fieldCollegeChoose" id="fieldCollegeChoose">
-                                                                    <option value="DAIICT"> DAIICT </option>
-                                                                    <option value="OTHER" selected> Other </option>
-                                                                </select> 										<br>
-
-                                                                <label class="col">College Name
-                                                                    &nbsp; <span class="errormsg" id="errFieldCollege">  </span>
-                                                                    <input type="text" id="fieldCollege" placeholder="" name="fieldCollege"/>
-                                                                </label>
-                                                                <label class="cold">DA-IICT ID (For DA-IICT students) <br>
-                                                                    &nbsp; <span class="errormsg" id="errFieldId">  </span>
-                                                                    <input type="number" name="fieldId" />
-                                                                </label>
-
-                                                            </label>
-                                                            <label class="col">Gender <br/>
-                                                                &nbsp; <span class="errormsg" id="errFieldGender">  </span> <br>
-                                                                <div  class="radio">
-                                                                    <input type="radio" name="fieldGender" Value="Male"/> Male<br/><br/>
-                                                                    <input type="radio" name="fieldGender" Value="Female"/> Female
-                                                                </div>
-                                                            </label>
-                                                            <label class="col">City<br>
-                                                                &nbsp; <span class="errormsg" id="errFieldCity">  </span>
-                                                                <input type="text" name="fieldCity"/>
-                                                            </label>
-                                                            <label class="col">Do you need accommodation?
-                                                                <select name="fieldAccommodation" id="fieldAccommodation">
-                                                                    <option value="yes">Yes</option>
-                                                                    <option selected="selected" value="no">No</option>
-                                                                </select>
-                                                            </label>
-                                                        </div>
-
-                                                        <div class="section"><span>3</span>Register yourself for:</div>
-
-                                                        <div class="inner-wrap">
-                                                            <span style="color: red"> * </span> <span id="errEvent"> Select at least one event</span><br/>
-                                                            &nbsp; <label> <span class="errormsg" id="errFieldEvenet">  </span> </label>
-                                                            <label>Technical Events<br/>
-
-                                                                <div  class="checkbox">
-                                                                    <input type="checkbox" name="iarduino"> Arduino Mela<br/><br/>
-                                                                    <input type="checkbox" name="ibot"> i.Bot<br/><br/>
-                                                                    <input type="checkbox" name="icode"> i.Code<br/><br/>
-                                                                    <input type="checkbox" name="ipapyrus"> i.Papyrus<br/><br/>
-                                                                    <input type="checkbox" name="techhunt"> Tech Hunt<br/><br/>
-                                                                    <input type="checkbox" name="iapp"> i.App<br/><br/>
-                                                                    <input type="checkbox" name="idatabase"> i.Database<br/><br/>
-                                                                    <input type="checkbox" name="ielectro"> i.Electro<br/><br/>
-                                                                    <input type="checkbox" name="blindc"> Blind C<br/><br/>
-                                                                    <input type="checkbox" name="ibiz"> i.Biz<br/><br/>
-                                                                    <input type="checkbox" name="icrypt"> i.Crypt<br/><br/>
-                                                                    <input type="checkbox" name="iintelligence"> i.Intelligence<br/><br/>
-                                                                    <input type="checkbox" name="iganith"> i.Ganith<br/><br/>
-                                                                </div>
-                                                            </label>
-                                                            <label>Fun Events<br/>
-
-                                                                <div  class="checkbox">
-                                                                    <input type="checkbox" name="treasurehunt"> Treasure Hunt<br/><br/>
-                                                                    <input type="checkbox" name="imaze"> i.Maze<br/><br/>
-                                                                    <input type="checkbox" name="icube"> i.Cube<br/><br/>
-                                                                    <input type="checkbox" name="iquiz"> i.Quiz<br/><br/>
-                                                                    <input type="checkbox" name="technocafe"> Techno-Cafe<br/><br/>
-                                                                    <input type="checkbox" name="iclash"> i.Clash<br/><br/>
-                                                                    <input type="checkbox" name="idecipher"> i.Decipher<br/><br/>
-                                                                    <input type="checkbox" name="idesign"> i.Capture and i.Design<br/><br/>
-                                                                    <input type="checkbox" name="irubble"> i.Rubble<br/><br/>
-                                                                </div>
-                                                            </label>
-                                                        </div>
-                                                        <div class="button-section">
-                                                            <input type="button" id="Register" name="Register" Value="Register" style="margin: 0 auto;
-                                                                   display: table;"/>
-                                                        </div>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                        </section>
-                                        <!--Footer-->
-                                        <footer>
-                                            <div class="container">
-                                                <p>© DA-IICT i.Fest. 2015</p>
-                                            </div>
-                                        </footer>
-                                    </div>
-                                </article>
-                                <article class=" pt-page pt-page-7" id="gallery"
-                                         originalclasslist="pt-page pt-page-7">
-
-                                    <div class="outer-wrapper" style="background-color: rgba(255,255,255,0.95);">
-                                        <!--Header-->
-                                        <header class="row-fluid">
-                                            <div class="container">
-                                                <div class="span12 relative">
-                                                    <div class="page-navi">
-                                                        <a class="home-page page-transition" href="#home"
-                                                           onclick="gotoPage(0, 6)" title="Go Home">
-                                                            <i class="fa fa fa-home nav-icon"></i>
-                                                        </a> 
-                                                        <a page="3" class="prev-page page-transition" href="" 
-                                                           onclick="gotoPage(3, 17)" title="Go To Previous Page">
-                                                            <i class="fa fa fa-arrow-circle-o-left nav-icon">
-
-                                                            </i></a> 
-                                                        <a page="5" class="next-page page-transition"
-                                                           href=""
-                                                           onclick="gotoPage(5, 19)" title="Go To Next Page">
-                                                            <i class="fa fa fa-arrow-circle-o-right nav-icon"></i>
-                                                        </a>
-                                                    </div>
-                                                    <h1 class="title-center" >i.Fest Diaries</h1>
-                                                </div>
-                                            </div>
-                                        </header>
-                                        <hr/>
-                                        <!--Content-->
-                                        <section class="row-fluid">
-                                            <div class="container ">
-                                                <div class="container-gallery"  >
-                                                    <div id="gr-gallery" class="gr-gallery">
-                                                        <div class="gr-main">
-                                                            <figure>
-                                                                <div>
-                                                                    <img src="img/gallery/1.jpg" alt="img01"/>
-                                                                </div>
-                                                                <!--		<figcaption> are optional, if we want to show some caption below image then use figcaption
-                                                                                </figcaption> -->
-                                                            </figure>
-                                                            <figure>
-                                                                <div>
-                                                                    <img src="img/gallery/2.jpg" alt="img02"  />
-                                                                </div>
-                                                            </figure>
-                                                            <figure>
-                                                                <div>
-                                                                    <img src="img/gallery/3.jpg" alt="img03"  />
-                                                                </div>
-                                                            </figure>
-                                                            <figure>
-                                                                <div>
-                                                                    <img src="img/gallery/4.jpg" alt="img04"  />
-                                                                </div>
-                                                            </figure>
-                                                            <figure>
-                                                                <div>
-                                                                    <img src="img/gallery/5.jpg" alt="img01"  />
-                                                                </div>
-                                                            </figure>
-                                                            <figure>
-                                                                <div>
-                                                                    <img src="img/gallery/6.jpg" alt="img02"  />
-                                                                </div>
-                                                            </figure>
-                                                            <figure>
-                                                                <div>
-                                                                    <img src="img/gallery/7.jpg" alt="img03"  />
-                                                                </div>
-                                                            </figure>
-                                                            <figure>
-                                                                <div>
-                                                                    <img src="img/gallery/8.jpg" alt="img08"  />
-                                                                </div>
-                                                            </figure>
-                                                            <figure>
-                                                                <div>
-                                                                    <img src="img/gallery/9.jpg" alt="img09"  />
-                                                                </div>
-                                                            </figure>
-                                                            <figure>
-                                                                <div>
-                                                                    <img src="img/gallery/10.jpg" alt="img09"   />
-                                                                </div>
-                                                            </figure>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div> 
-                                        </section>
-                                        <!--Footer-->
-                                        <footer>
-                                            <div class="container">
-                                                <p>© DA-IICT i.Fest. 2015 - Website developed by Daiictians!</p>
-                                            </div>
-                                        </footer>
-                                    </div>
-                                </article>
-                                </div>
-                                <!-- #page -->
+                                                <!-- #page -->
 
 
-                                <script type="text/javascript" src="./js/ajax-posts.js"></script>
-                                <script type="text/javascript" src="./js/pagetransitions.js"></script>
-                                <script type="text/javascript" src="./js/validation.js"></script>
-                                <script type="text/javascript" src="./js/jquery.masonry.min.js"></script>
-                                <script type="text/javascript" src="./js/jquery.ui.core.min.js"></script>
-                                <script type="text/javascript" src="./js/jquery.ui.widget.min.js"></script>
-                                <script type="text/javascript" src="./js/jquery.ui.accordion.min.js"></script>
-                                <script type="text/javascript" src="./js/jquery.ui.tabs.min.js"></script>
-                                <script type="text/javascript" src="./js/jquery.easing.1.3.js"></script>
-                                <script type="text/javascript" src="./js/jquery.carouFredSel-6.2.1-packed.js"></script>
-                                <script type="text/javascript" src="./js/jquery.ba-hashchange.min.js"></script>
-                                <script type="text/javascript" src="./js/jquery.gridster.min.js"></script>
-                                <script type="text/javascript" src="./js/jquery.mixitup.min.js"></script>
-                                <script type="text/javascript" src="./js/jquery.nicescroll.min.js"></script>
-                                <script type="text/javascript" src="./js/heartcode-canvasloader-min-0.9.1(1).js"></script>
-                                <script type="text/javascript" src="./js/scripts.js"></script>
-                                <script type="text/javascript" src="./js/navigation.js"></script>
-                                <script type="text/javascript" src="./js/skip-link-focus-fix.js"></script>
-                                <script type="text/javascript" src="./js/transaction.js"></script>
-                                <!-- script added for 3d gallery starts here <script src="./js/jquery.min.js"></script>-->
-                                <script src="./js/wallgallery.js"></script>
-                                <script>
-                                                               $(function () {
-                                                                   Gallery.init({layout: [2, 3, 2, 2]
-                                                                   });
-                                                               });
-                                </script>
-                                <!-- script added for 3d gallery ends here -->
+                                                <script type="text/javascript" src="./js/ajax-posts.js"></script>
+                                                <script type="text/javascript" src="./js/pagetransitions.js"></script>
+                                                <script type="text/javascript" src="./js/validation.js"></script>
+                                                <script type="text/javascript" src="./js/jquery.masonry.min.js"></script>
+                                                <script type="text/javascript" src="./js/jquery.ui.core.min.js"></script>
+                                                <script type="text/javascript" src="./js/jquery.ui.widget.min.js"></script>
+                                                <script type="text/javascript" src="./js/jquery.ui.accordion.min.js"></script>
+                                                <script type="text/javascript" src="./js/jquery.ui.tabs.min.js"></script>
+                                                <script type="text/javascript" src="./js/jquery.easing.1.3.js"></script>
+                                                <script type="text/javascript" src="./js/jquery.carouFredSel-6.2.1-packed.js"></script>
+                                                <script type="text/javascript" src="./js/jquery.ba-hashchange.min.js"></script>
+                                                <script type="text/javascript" src="./js/jquery.gridster.min.js"></script>
+                                                <script type="text/javascript" src="./js/jquery.mixitup.min.js"></script>
+                                                <script type="text/javascript" src="./js/jquery.nicescroll.min.js"></script>
+                                                <script type="text/javascript" src="./js/heartcode-canvasloader-min-0.9.1(1).js"></script>
+                                                <script type="text/javascript" src="./js/scripts.js"></script>
+                                                <script type="text/javascript" src="./js/navigation.js"></script>
+                                                <script type="text/javascript" src="./js/skip-link-focus-fix.js"></script>
+                                                <script type="text/javascript" src="./js/transaction.js"></script>
+                                                <!-- script added for 3d gallery starts here <script src="./js/jquery.min.js"></script>-->
+                                                <script src="./js/wallgallery.js"></script>
+                                                <script>
+                                                                               $(function () {
+                                                                                   Gallery.init({layout: [2, 3, 2, 2]
+                                                                                   });
+                                                                               });
+                                                </script>
+                                                <!-- script added for 3d gallery ends here -->
 
-                                </body>
+                                                </body>
 
-                                </html>
+                                                </html>

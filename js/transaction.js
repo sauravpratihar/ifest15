@@ -44,8 +44,6 @@ jQuery(document).ready(function () {
     });
 
     jQuery("#Register").click(function () {
-        jQuery(window).scrollTop(0);
-
         var queryString = jQuery('#Register-form').serialize();
         jQuery.ajax({
             type: "POST",

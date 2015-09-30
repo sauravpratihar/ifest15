@@ -16,7 +16,7 @@ if ((isset($_REQUEST['password']) && $_REQUEST['password'] == 'darocks') || isse
 
     $db_selected = mysql_select_db($dbname, $conn);
 
-    $selectevent = "SELECT eventid,eventname FROM event";
+    $selectevent = "SELECT eventcode,eventname FROM event";
 
     $export = mysql_query($selectevent) or die("Sql error : " . mysql_error());
 

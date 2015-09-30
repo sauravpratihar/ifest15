@@ -986,8 +986,8 @@ a.register{
     width:0;
     height:0;
     position:absolute;
-    right:-9px;
-    top:20px;
+    right: -9px;
+    top: 20px;
     border-top:7px solid transparent;
     border-left:8px solid #e1e1e1;
     border-bottom:7px solid transparent;
@@ -1085,6 +1085,7 @@ a.register{
 
 .edu-block .edu-date
 {
+    cursor: pointer;
     border:1px solid #e1e1e1;
     display:inline-block;
     float:left;
@@ -1102,14 +1103,15 @@ a.register{
     background:url(../img/bg-date.png) no-repeat 0 0;
     content:"";
     display:block;
-    height:176px;
-    width:9px;
+    height: 176px;
+    width: 10px;
     position:absolute;
     top: -16px;
     left: 73px;
     -webkit-transform:rotate(90deg);
     -moz-transform:rotate(90deg);
     transform:rotate(90deg)
+;
 }
 
 @media (max-width:1199px)
@@ -1165,10 +1167,11 @@ a.register{
 
 .block-ico
 {
+    display: none !important;
     background: rgb(205, 89, 66);
     box-sizing:border-box;
     color:#fff;
-    display:inline-block;
+    /* display:inline-block; */
     overflow:hidden;
     width:58px;
     height:58px;
@@ -1247,6 +1250,7 @@ a.register{
 }
 
 .viewmore .fa-close{
+    cursor: pointer;
     right: -10px;
     top: -10px;
     position: absolute;
@@ -1297,4 +1301,27 @@ input[placeholder], [placeholder], *[placeholder] {
 .og-expanded .viewmore{
 /*    height: 2800px !important;
     overflow: scroll;*/
+}
+
+.social{
+    float: right;
+    font-size: 2em;
+    margin: 35px 112px 0px 0px;
+    position: absolute;
+    right: 0px;
+}
+.social-tooltip{
+    font-size: .5em;
+    visibility: hidden;
+    position: absolute;
+    top: -27px;
+    width: 200px;
+    right: 0;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 4px;
+    box-shadow: 0 0 2px #ccc;
+}
+.social-tooltip:hover{
+    visibility: visible;
 }

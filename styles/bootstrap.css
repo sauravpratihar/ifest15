@@ -1736,6 +1736,11 @@ legend + .control-group {
     width: auto;
   }
 
+.social {
+    margin: 18px !important;
+    margin-top: -18px !important;
+}
+
 #map img {
 }
   .row-fluid {
