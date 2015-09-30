@@ -1234,6 +1234,7 @@ a.register{
     position: absolute; 
     width: 95%;
     min-height: 300px;
+    height:100%;
     background-color: #5C5A56;
     left: 2%;
     z-index: 1000;
@@ -1245,6 +1246,7 @@ a.register{
     visibility: hidden;
     text-align: left;
     transition: 0.2s
+    padding-bottom: 100px;
 ;
     box-shadow: 0 0 30px #A6A0A2;
 }
@@ -1271,7 +1273,7 @@ input[placeholder], [placeholder], *[placeholder] {
 }
 
 .viewmore, .viewmore p,.viewmore ul{
-    padding: 1% 4%;
+    padding: 1% 4% -2% 0%;
     transform: rotate(0deg) !important;
 }
 .viewmore ul li:nth-child(odd){
