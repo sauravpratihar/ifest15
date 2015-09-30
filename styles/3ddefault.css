@@ -10,7 +10,7 @@ html { height: 100%; }
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     padding: 0;
-    margin: 0px;
+    margin: -2px;
 }
 
 /* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
